@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
+title: Fourth World Congress of Psychogeography
+email: email@example.com
 url: https://timwaters.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Fourth World Congress of Psychogeography - a festival of walking, space, place and the town of Huddersfield, West Yorkshire. Free events. 9-10 September 2016"
 baseurl: "/huddersfield-psychogeography"
 
 # Color settings
@@ -11,20 +11,15 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Fourth World Congress of Psychogeography - Huddersfield 9-10 September 2016
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/Example
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://facebook.com/Example
+
 
 # Build settings
 markdown: kramdown
