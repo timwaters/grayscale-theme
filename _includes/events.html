@@ -4,20 +4,35 @@
         <div class="col-lg-8 col-lg-offset-2">
             <h2>Events</h2>
             <h3>Friday 9th September</h3>
-            <p>
-                Event name
-                <br /> Time - location
-                <br /> Description
-                <br />
+            <ul class="list-unstyled">
+            {% for event in site.friday-events %}
+              <li>
+                <p>
+                {{ event.type}}: <strong>{{ event.title }}</strong> <br />
+                {{ event.description }} <br />
+                {{ event.by }} <br />
+                {{ event.location }} <br />
+                {% if event.note %} <strong>Note:</strong> {{ event.note }}{% endif %}
+              </p>
+              </li>
+            {% endfor %}    
+          </ul>
+          
+          <h3>Sat 10th September</h3>
+          <ul class="list-unstyled">
+          {% for event in site.saturday-events %}
+            <li>
+              <p>
+              {{ event.type}}: <strong>{{ event.title }}</strong> <br />
+              {{ event.description }} <br />
+              {{ event.by }} <br />
+              {{ event.location }} <br />
+              {% if event.note %}<strong>Note:</strong> {{ event.note }}{% endif %}
             </p>
+            </li>
+          {% endfor %}    
+        </ul>
 
-            <h3>Sat 10th September</h3>
-            <p>
-                Event name
-                <br /> Time - location
-                <br /> Description
-                <br />
-            </p>
         </div>
     </div>
 </section>

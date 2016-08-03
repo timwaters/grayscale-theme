@@ -16,11 +16,40 @@ footer: Fourth World Congress of Psychogeography - Huddersfield 9-10 September 2
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/Example
+    url: https://twitter.com/search?f=tweets&q=%234wcop
   - title: facebook
-    url: https://facebook.com/Example
+    url: https://www.facebook.com/groups/HuddersfieldPsychogeographyNetwork/
 
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+friday-events:
+  - title: first event
+    by: Mr Foo
+    location: blah first
+    description: blah first
+    type: Walk
+    note: foo
+  - title: second event
+    by: Mr Foo
+    location: blah second
+    description: blah second
+    type: Talk
+    note:
+
+saturday-events:
+  - title: first event
+    by: Mr Foo
+    location: blah first
+    description: blah first
+    type: Walk
+    note: foo
+  - title: second event
+    by: Mr Foo
+    location: blah second
+    description: blah second
+    type: Talk
+    note:
+
