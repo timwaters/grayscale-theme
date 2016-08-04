@@ -37,14 +37,14 @@ friday-events:
     note: Free event, just turn up!
   - title: Scavenger's Hunt
     by: Sophie Emmanouil
-    location: Hertiage Quay and then around University Campus
+    location: Heritage Quay and then around University Campus
     time: 5pm - 7pm
     description: Calling scavengers young and old to follow a trail around the university campus in the search of items and stories, mundane or otherwise. The findings of the explorations will be exhibited in the Instant Museum of Curiosities at Heritage Quay, so come with a playful mood and an enquiring mind.
     type: Walk
     note: Free event, just turn up!
   - title: A Walk in the Park
     by: Travis Elborough
-    location: Hertigae Quay
+    location: Heritage Quay
     time: 7pm - 9pm
     description: Travis Elborough talks about his new book (A Walk in the Park, just out in Penquin). It's a joyful and loving portrait of a small wonder that we may risk taking for granted and which, right now in an era of cuts, is and institution under threat. This talk is not to be missed!
     type: Talk
@@ -112,26 +112,26 @@ other-events:
     
 bios:
   - name: Phil Smith
-    description:
-    image:
+    description: Phil Smith (aka "Crab Man", "Mytho") is a performance maker, writer and ambulatory researcher.  He specialises in creating performances related to walking, site-specificity, mythogeographies and counter-tourism.  He writes and performs "mis-guided tours".  Phil's publications include A Footbook of Zombie Walking, Walking's New Movement, Enchanted Things, and Mythogeography.  He is also a playwright, with over 120 of his plays and adaptations having been produced and toured globally.  He is an Associate Professor (Reader) at Plymouth University
+    image: phil-s-twitter.jpg
   - name: Sophie Emmanouil
     description:
     image:
   - name: Travis Elborough
-    description:
-    image:
+    description: Travis Elborough has been a freelance writer, author and cultural commentator for more than a decade now. His books include The Bus We Loved a history of the Routemaster bus; The Long Player Goodbye, a hymn to vinyl records; Wish You Were Here, a survey of the British beside the seaside and London Bridge in America; The Tall Story of a Transatlantic Crossing. The most recent book <a href="https://www.penguin.co.uk/books/1098877/a-walk-in-the-park/">A Walk in the Park; The Life and Times of a People's Institution</a> was published by Jonathan Cape in June 2016 and described as "a fascinating, informative, revelatory book" by William Boyd in <a href="https://www.theguardian.com/books/2016/jun/18/a-walk-in-the-park-the-life-and-times-of-a-peoples-institution-travis-elborough-review">The Guardian.</a>
+    image: travis-blog.png
   - name: Alex Bridger
-    description: Alex Bridger works at the University of Huddersfield teaching critical and community psychology and approaches to research including psychogeography and the analysis of media texts and political rhetoric. He also involved with chairing the Huddersfield Psychogeographical Network and is currently writing a book titled Psychogeography and Psychology. You can contact him and/or find out more about his work at <br /> Email <a href="mailto:a.j.bridger@hud.ac.uk">a.j.bridger@hud.ac.uk</a><br /> <a href="https://www.hud.ac.uk/ourstaff/profile/index.php?staffid=483">University Staff profile</a> <br /> Facebook <a href="https://www.facebook.com/groups/HuddersfieldPsychogeographyNetwork/">Huddersfield Psychogeographical Network<a/><br /> Blog <a href="https://notanotherpsychogeographyblog.wordpress.com"> https://notanotherpsychogeographyblog.wordpress.com</a>
+    description: 'Alex Bridger works at the University of Huddersfield teaching critical and community psychology and approaches to research including psychogeography and the analysis of media texts and political rhetoric. He also involved with chairing the Huddersfield Psychogeographical Network and is currently writing a book titled Psychogeography and Psychology. You can contact him and/or find out more about his work at <br /> Email: <a href="mailto:a.j.bridger@hud.ac.uk">a.j.bridger@hud.ac.uk</a>, <a href="https://www.hud.ac.uk/ourstaff/profile/index.php?staffid=483">University Staff profile</a> <br /> Facebook: <a href="https://www.facebook.com/groups/HuddersfieldPsychogeographyNetwork/">Huddersfield Psychogeographical Network</a><br /> Blog: <a href="https://notanotherpsychogeographyblog.wordpress.com">https://notanotherpsychogeographyblog.wordpress.com</a> '
     image:
   - name: Tim Waters    
     description: Tim is a psychogeographer, digital humanities enthusiast and freelance geographer. He likes historical maps. He's worked with the likes of the New York Public Library, the Library of Congress and the Wikimedia Foundation. He has been part of Leeds Psychogeography Group and organises the annual <a href="http://terminaliafestival.org">Terminalia Festival</a> of Psychogeography.
-    image: tim-twitter.jpeg
+    image: tim-sz.png
   - name: Phil Wood
     description:
     image:
   - name: Tina Richardson
-    description:
-    image:
+    description: 'Tina Richardson specialises in the field of urban cultural studies. Having received her PhD at the University of Leeds in 2014 she is now an independent scholar, working as an editor-writer, guest lecturer and consultant. Tina’s latest edited volume has been published by Rowman and Littlefield International : <a href="http://www.rowmaninternational.com/books/walking-inside-out">Walking Inside Out - Contemporary British Psychogeography (2015)</a>. From a cultural theory and psychogeography background, Tina specialises in - identity and place, the application of poststructural theory to space, and the appearance of urban space under neoliberalism. <br /> Schizocartography Website: <a href="http://www.schizocartography.org/">http://www.schizocartography.org/</a> <br /> Blog: <a href="http://particulations.blogspot.co.uk/">http://particulations.blogspot.co.uk/</a><br /> Twitter : <a href="https://twitter.com/concretepost">@concretepost</a>'
+    image: tina-sz.png
   - name: David Smith
     description:
     image:
