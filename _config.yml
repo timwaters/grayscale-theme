@@ -46,7 +46,7 @@ friday-events:
     by: Travis Elborough
     location: Hertigae Quay
     time: 7pm - 9pm
-    description: Travis Elborough talks about his new book (A Walk in the Park, just out in Penquin). It's a joyful and loving portrait of a small wonder that we may risk taking for granted and which, right now in an era of cuts, is and institution under threat.
+    description: Travis Elborough talks about his new book (A Walk in the Park, just out in Penquin). It's a joyful and loving portrait of a small wonder that we may risk taking for granted and which, right now in an era of cuts, is and institution under threat. This talk is not to be missed!
     type: Talk
     note:
 
@@ -58,7 +58,7 @@ saturday-events:
     description: Is it simply about walking, that brings in psychology and geography or is it an artistic, literary or political practice? Psychogeography can be all of these and can be drawn on by anyone to take a fresh look at many aspects of living, working and leisure. 
     type: Talk 
     note:
-  - title: The Northern Powerhous in a post-Brexit world
+  - title: The Northern Powerhouse in a post-Brexit world
     by: Alex Bridger
     location: Start at Heritage Quay and then around town
     time: 12pm - 2pm
@@ -108,4 +108,34 @@ other-events:
     time: 
     description: 
     type: 
-    note:   
+    note:  
+    
+bios:
+  - name: Phil Smith
+    description:
+    image:
+  - name: Sophie Emmanouil
+    description:
+    image:
+  - name: Travis Elborough
+    description:
+    image:
+  - name: Alex Bridger
+    description: Alex Bridger works at the University of Huddersfield teaching critical and community psychology and approaches to research including psychogeography and the analysis of media texts and political rhetoric. He also involved with chairing the Huddersfield Psychogeographical Network and is currently writing a book titled Psychogeography and Psychology. You can contact him and/or find out more about his work at <br /> Email <a href="mailto:a.j.bridger@hud.ac.uk">a.j.bridger@hud.ac.uk</a><br /> <a href="https://www.hud.ac.uk/ourstaff/profile/index.php?staffid=483">University Staff profile</a> <br /> Facebook <a href="https://www.facebook.com/groups/HuddersfieldPsychogeographyNetwork/">Huddersfield Psychogeographical Network<a/><br /> Blog <a href="https://notanotherpsychogeographyblog.wordpress.com"> https://notanotherpsychogeographyblog.wordpress.com</a>
+    image:
+  - name: Tim Waters    
+    description: Tim is a psychogeographer, digital humanities enthusiast and freelance geographer. He likes historical maps. He's worked with the likes of the New York Public Library, the Library of Congress and the Wikimedia Foundation. He has been part of Leeds Psychogeography Group and organises the annual <a href="http://terminaliafestival.org">Terminalia Festival</a> of Psychogeography.
+    image: tim-twitter.jpeg
+  - name: Phil Wood
+    description:
+    image:
+  - name: Tina Richardson
+    description:
+    image:
+  - name: David Smith
+    description:
+    image:
+  - name: The Bored in the City Collective
+    description: The bored in the city collective are a motley group of psychogeographers, artists, writers and poets that reside in the Manchester region. Over the past 15 years they have produced numerous situationist inspired leaflets, zines, comic books and DIY maps in relation to reflecting on the capitalist gentrification of Manchester city centre, the war on terror and a critique of spectacular society. They have been involved in numerous stunts and interventions and their greatest achievement has been the levitation of both bus stations in Manchester June 2008. You can contact them at <a href="mailto:Boredinthecity@hotmail.co.uk">Boredinthecity@hotmail.co.uk</a>
+    image:
+

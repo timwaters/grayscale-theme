@@ -388,3 +388,12 @@ body {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
 }
+
+
+.bio-row {
+padding-bottom: 15px;
+}
+.bio-image {
+padding-top: 5px;}
+
+strong { font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;}
