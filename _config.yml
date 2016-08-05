@@ -31,7 +31,7 @@ friday-events:
   - title: Psychogeography Extreme
     by: Phil Smith
     location: Heritage Quay
-    time: 4pm - 5pm
+    time: 4pm (45 mins)
     description: What is the future for psychogeography? To open the Congress, Phil Smith will outline his proposal for a state of walking that explores the frontiers of human identity, ecology and much much more. Looking at some future shifts in contemporary psychogeography, Phil proposes a walking which is both quest and architecture that produces more in the way of totalities than fragments. 
     type: Talk
     note: Free event, just turn up!
@@ -54,7 +54,7 @@ saturday-events:
   - title: What is Psychogeography
     by: Alex Bridger
     location: Heritage Quay
-    time: 11am - 12pm
+    time: 11.30am - 12pm (30 mins)
     description: Is it simply about walking, that brings in psychology and geography or is it an artistic, literary or political practice? Psychogeography can be all of these and can be drawn on by anyone to take a fresh look at many aspects of living, working and leisure. 
     type: Talk 
     note:
@@ -68,7 +68,7 @@ saturday-events:
   - title: Walking over Mines
     by: Tim Waters
     location: Start at Heritage Quay
-    time: 12pm - 2pm
+    time: 12pm - 2pm (120 mins)
     description: Tim will lead you over the labyrinth of concealed and invisible coal workings that lie just beneath the surface of Huddersfield town centre. His psychogeographic insights will give you a whole new view on the stuff beneath our streets.
     type: Walk
     note:           
@@ -82,14 +82,14 @@ saturday-events:
   - title: The Studentification of Urban Space
     by: Tina Richardson
     location: Heritage Quay
-    time: 3pm - 4pm
+    time: 3pm - 4pm (45mins)
     description: Tina Richardson will discuss the rise of private halls of residences in university towns and cities. Looking at examples from Huddersfield and Leeds, Tina will show how these forms of accommodation, which may seem innocuous, may have other impacts.
     type: Talk
     note:
   - title: Getting Lost on Purpose
     by: Tim Waters
     location: Start at Heritage Quay and then wherever 
-    time: 4pm - 6pm
+    time: 4pm - 6pm (100 mins)
     description: Participants will devise unconventional rules and methods for walking (such as a flip of a coin or dice or following odd patterns), and then put them into practice around town. By getting lost on purpose we move across the streets in a way we haven't done before which can lead us to new insights about how we use the spaces and places we are in. We may get lost so let's see where you end up!
     type: Walk
     note:        
@@ -127,8 +127,8 @@ bios:
     description: Tim is a psychogeographer, digital humanities enthusiast and freelance geographer. He likes historical maps. He's worked with the likes of the New York Public Library, the Library of Congress and the Wikimedia Foundation. He has been part of Leeds Psychogeography Group and organises the annual <a href="http://terminaliafestival.org">Terminalia Festival</a> of Psychogeography.
     image: tim-sz.png
   - name: Phil Wood
-    description:
-    image:
+    description: 'Phil Wood is the Urban Therapist, an intercultural path-beater scavenging the discarded edgelands of our settlements and memories; confronting us with our hubristic follies and rekindling our capacity for compassion and community. He works and walks all over the world but has never really left Huddersfield. <br /> Web: <a href="http://philwood.eu/">http://philwood.eu/</a> <br />Blog: <a href="http://subversiveurbanism.tumblr.com/">http://subversiveurbanism.tumblr.com</a> <br /> <a href="https://twitter.com/PhilWood11">@PhilWood11 </a> '
+    image: phil-w.jpeg
   - name: Tina Richardson
     description: 'Tina Richardson specialises in the field of urban cultural studies. Having received her PhD at the University of Leeds in 2014 she is now an independent scholar, working as an editor-writer, guest lecturer and consultant. Tina’s latest edited volume has been published by Rowman and Littlefield International : <a href="http://www.rowmaninternational.com/books/walking-inside-out">Walking Inside Out - Contemporary British Psychogeography (2015)</a>. From a cultural theory and psychogeography background, Tina specialises in - identity and place, the application of poststructural theory to space, and the appearance of urban space under neoliberalism. <br /> Schizocartography Website: <a href="http://www.schizocartography.org/">http://www.schizocartography.org/</a> <br /> Blog: <a href="http://particulations.blogspot.co.uk/">http://particulations.blogspot.co.uk/</a><br /> Twitter : <a href="https://twitter.com/concretepost">@concretepost</a>'
     image: tina-sz.png

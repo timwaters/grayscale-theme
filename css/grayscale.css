@@ -275,6 +275,19 @@ a:focus {
     background-size: cover;
     -o-background-size: cover;
 }
+
+.who-section {
+    width: 100%;
+ 
+    color: #fff;
+    background: url(../img/words-bg.jpg) no-repeat center center scroll;
+    background-color: #000000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .margin-fix {
     margin-left: 15px;
     margin-right: 15px;
