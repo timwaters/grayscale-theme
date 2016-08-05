@@ -36,7 +36,7 @@ friday-events:
     type: Talk
     note: Free event, just turn up!
   - title: Scavenger's Hunt
-    by: Sophie Emmanouil
+    by: Sophia Emmanouil
     location: Heritage Quay and then around University Campus
     time: 5pm - 7pm
     description: Calling scavengers young and old to follow a trail around the university campus in the search of items and stories, mundane or otherwise. The findings of the explorations will be exhibited in the Instant Museum of Curiosities at Heritage Quay, so come with a playful mood and an enquiring mind.
@@ -96,8 +96,8 @@ saturday-events:
   - title: Any Other Business
     by: All
     location: Heritage Quay 
-    time: 6pm 
-    description: Motion of No Confidence and formal Dis-Assembly of the 4th World Congress of Psychogeography, including any expulsions, unresignations and votes. 
+    time: 6pm (15 mins)
+    description: Let's all meet back from our walks to take part in the Motion of No Confidence and formal Dis-Assembly of the 4th World Congress of Psychogeography, including any expulsions, unresignations and votes. 
     type: Panel
     note:        
         
@@ -114,17 +114,17 @@ bios:
   - name: Phil Smith
     description: Phil Smith (aka "Crab Man", "Mytho") is a performance maker, writer and ambulatory researcher.  He specialises in creating performances related to walking, site-specificity, mythogeographies and counter-tourism.  He writes and performs "mis-guided tours".  Phil's publications include A Footbook of Zombie Walking, Walking's New Movement, Enchanted Things, and Mythogeography.  He is also a playwright, with over 120 of his plays and adaptations having been produced and toured globally.  He is an Associate Professor (Reader) at Plymouth University
     image: phil-s-twitter.jpg
-  - name: Sophie Emmanouil
-    description:
-    image:
+  - name: Sophia Emmanouil
+    description:  
+    image: sophia-uni.jpg
   - name: Travis Elborough
     description: Travis Elborough has been a freelance writer, author and cultural commentator for more than a decade now. His books include The Bus We Loved a history of the Routemaster bus; The Long Player Goodbye, a hymn to vinyl records; Wish You Were Here, a survey of the British beside the seaside and London Bridge in America; The Tall Story of a Transatlantic Crossing. The most recent book <a href="https://www.penguin.co.uk/books/1098877/a-walk-in-the-park/">A Walk in the Park; The Life and Times of a People's Institution</a> was published by Jonathan Cape in June 2016 and described as "a fascinating, informative, revelatory book" by William Boyd in <a href="https://www.theguardian.com/books/2016/jun/18/a-walk-in-the-park-the-life-and-times-of-a-peoples-institution-travis-elborough-review">The Guardian.</a>
     image: travis-blog.png
   - name: Alex Bridger
     description: 'Alex Bridger works at the University of Huddersfield teaching critical and community psychology and approaches to research including psychogeography and the analysis of media texts and political rhetoric. He also involved with chairing the Huddersfield Psychogeographical Network and is currently writing a book titled Psychogeography and Psychology. You can contact him and/or find out more about his work at <br /> Email: <a href="mailto:a.j.bridger@hud.ac.uk">a.j.bridger@hud.ac.uk</a>, <a href="https://www.hud.ac.uk/ourstaff/profile/index.php?staffid=483">University Staff profile</a> <br /> Facebook: <a href="https://www.facebook.com/groups/HuddersfieldPsychogeographyNetwork/">Huddersfield Psychogeographical Network</a><br /> Blog: <a href="https://notanotherpsychogeographyblog.wordpress.com">https://notanotherpsychogeographyblog.wordpress.com</a> '
-    image:
+    image: alex-google.jpg
   - name: Tim Waters    
-    description: Tim is a psychogeographer, digital humanities enthusiast and freelance geographer. He likes historical maps. He's worked with the likes of the New York Public Library, the Library of Congress and the Wikimedia Foundation. He has been part of Leeds Psychogeography Group and organises the annual <a href="http://terminaliafestival.org">Terminalia Festival</a> of Psychogeography.
+    description: Tim is a psychogeographer, digital humanities enthusiast and freelance geographer. He likes historical maps. He's worked with the likes of the New York Public Library, the Library of Congress and the Wikimedia Foundation. He has been part of Leeds Psychogeography Group and organises the annual <a href="http://terminaliafestival.org">Terminalia Festival</a> of Psychogeography. He's also responsible for this website.
     image: tim-sz.png
   - name: Phil Wood
     description: 'Phil Wood is the Urban Therapist, an intercultural path-beater scavenging the discarded edgelands of our settlements and memories; confronting us with our hubristic follies and rekindling our capacity for compassion and community. He works and walks all over the world but has never really left Huddersfield. <br /> Web: <a href="http://philwood.eu/">http://philwood.eu/</a> <br />Blog: <a href="http://subversiveurbanism.tumblr.com/">http://subversiveurbanism.tumblr.com</a> <br /> <a href="https://twitter.com/PhilWood11">@PhilWood11 </a> '
