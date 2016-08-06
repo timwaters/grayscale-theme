@@ -280,7 +280,7 @@ a:focus {
     width: 100%;
  
     color: #fff;
-    background: url(../img/words-bg.jpg) no-repeat center center scroll;
+    background: url(../img/chombert-bg.jpg) no-repeat center center scroll;
     background-color: #000000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -410,3 +410,15 @@ padding-bottom: 15px;
 padding-top: 5px;}
 
 strong { font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;}
+
+.event-highlight{
+  color: #D1F7FF;
+}
+
+.event-type {
+  text-transform: uppercase;
+}
+
+.event-title {
+  font-size: 110%;
+}

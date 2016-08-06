@@ -1,7 +1,7 @@
 <!-- Events Section -->
 <section id="events" class="container content-section text-left">
     <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
+        <div class="col-lg-10 col-lg-offset-2">
             <h2>Events</h2>
             <p class="event-link"><a href="#friday">Friday 9 September</a><br />  <a href="#saturday">Saturday 10 September</a></p>
             <h3 id="friday">Friday 9th September</h3>
@@ -9,13 +9,13 @@
             {% for event in site.friday-events %}
               <li>
                 <p>
-                {{ event.type}}: <strong>{{ event.title }}</strong> <br />
-                {{ event.time }}               
+                <span class="event-highlight event-type">{{ event.type}}:</span>  <strong class="event-title">{{ event.title }}</strong> <br />
+                <span class="event-highlight">{{ event.time }}</span>               
                 {{ event.location }} <br />
-                By: {{ event.by }} <br />
+                <span class="event-highlight">  By:</span>  {{ event.by }} <br />
                 {{ event.description }} <br />
 
-                {% if event.note %} <strong>Note:</strong> {{ event.note }}{% endif %}
+                {% if event.note %} <strong class="event-highlight">Note:</strong> {{ event.note }}{% endif %}
               </p>
               </li>
             {% endfor %}    
@@ -25,15 +25,15 @@
           <ul class="list-unstyled">
           {% for event in site.saturday-events %}
             <li>
-                <p>
-                {{ event.type}}: <strong>{{ event.title }}</strong> <br />
-                {{ event.time }}               
-                {{ event.location }} <br />
-                By: {{ event.by }} <br />
-                {{ event.description }} <br />
+              <p>
+              <span class="event-highlight event-type">{{ event.type}}:</span>  <strong>{{ event.title }}</strong> <br />
+              <span class="event-highlight">{{ event.time }}</span>               
+              {{ event.location }} <br />
+              <span class="event-highlight">  By:</span>  {{ event.by }} <br />
+              {{ event.description }} <br />
 
-                {% if event.note %} <strong>Note:</strong> {{ event.note }}{% endif %}
-              </p>
+              {% if event.note %} <strong class="event-highlight">Note:</strong> {{ event.note }}{% endif %}
+            </p>
             </li>
           {% endfor %}    
         </ul>
