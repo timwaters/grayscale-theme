@@ -33,7 +33,7 @@ $('.navbar-collapse ul li a').click(function() {
 $(function() {
 
 
-    var map = L.map('map').setView([53.64396, -1.77697], 15);
+    var map = L.map('map').setView([53.64396, -1.77697], 16);
 
     L.tileLayer('https://api.mapbox.com/styles/v1/chippy/cirfh4hwx0003h5kprgysft36/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2hpcHB5IiwiYSI6IjVRbVFqMWsifQ.7wYEXYi6OBRNDU0roXhb8w', {
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors. Map tiles from <a href="http://mapbox.com">Mapbox</a>',
