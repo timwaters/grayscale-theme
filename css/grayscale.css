@@ -413,6 +413,7 @@ strong { font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;}
 
 .event-highlight{
   color: #D1F7FF;
+  font-style: normal;
 }
 
 .event-type {
@@ -421,4 +422,10 @@ strong { font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;}
 
 .event-title {
   font-size: 110%;
+}
+.note { 
+margin-top: -25px;
+
+font-style: italic;
+    
 }

@@ -14,9 +14,9 @@
                 {{ event.location }} <br />
                 <span class="event-highlight">  By:</span>  {{ event.by }} <br />
                 {{ event.description }} <br />
-
-                {% if event.note %} <strong class="event-highlight">Note:</strong> {{ event.note }}{% endif %}
-              </p>
+                </p>
+                {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
+            
               </li>
             {% endfor %}    
           </ul>
@@ -32,7 +32,7 @@
               <span class="event-highlight">  By:</span>  {{ event.by }} <br />
               {{ event.description }} <br />
 
-              {% if event.note %} <strong class="event-highlight">Note:</strong> {{ event.note }}{% endif %}
+              {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
             </p>
             </li>
           {% endfor %}    
