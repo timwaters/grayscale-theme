@@ -15,9 +15,14 @@ footer: Fourth World Congress of Psychogeography - Huddersfield 9-10 September 2
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  #- title: "#4wcop"
+  #  service: twitter
+  #  url: https://twitter.com/search?f=tweets&q=%234wcop
   - title: twitter
-    url: https://twitter.com/search?f=tweets&q=%234wcop
+    service: twitter
+    url: https://twitter.com/TykePsychoGeog
   - title: facebook
+    service: facebook
     url: https://www.facebook.com/groups/HuddersfieldPsychogeographyNetwork/
 
 
@@ -124,7 +129,7 @@ bios:
     description: 'Alex Bridger works at the University of Huddersfield teaching critical and community psychology and approaches to research including psychogeography and the analysis of media texts and political rhetoric. He also involved with chairing the Huddersfield Psychogeographical Network and is currently writing a book titled Psychogeography and Psychology. You can contact him and/or find out more about his work at <br /> Email: <a href="mailto:a.j.bridger@hud.ac.uk">a.j.bridger@hud.ac.uk</a>, <a href="https://www.hud.ac.uk/ourstaff/profile/index.php?staffid=483">University Staff profile</a> <br /> Facebook: <a href="https://www.facebook.com/groups/HuddersfieldPsychogeographyNetwork/">Huddersfield Psychogeographical Network</a><br /> Blog: <a href="https://notanotherpsychogeographyblog.wordpress.com">https://notanotherpsychogeographyblog.wordpress.com</a> '
     image: alex-google.jpg
   - name: Tim Waters    
-    description: Tim is a psychogeographer, digital humanities enthusiast and freelance geographer. He likes historical maps. He's worked with the likes of the New York Public Library, the Library of Congress and the Wikimedia Foundation. He has been part of Leeds Psychogeography Group and organises the annual <a href="http://terminaliafestival.org">Terminalia Festival</a> of Psychogeography. He's also responsible for this website.
+    description: Tim is a psychogeographer, digital humanities enthusiast and freelance geographer. He likes historical maps. He's worked with many libraries and museums on historical maps, temporal geographies and vague fuzzy vernacular spaces. He has been part of Leeds Psychogeography Group and organises the annual <a href="http://terminaliafestival.org">Terminalia Festival</a> of Psychogeography. He's also responsible for this website.
     image: tim-sz.png
   - name: Phil Wood
     description: 'Phil Wood is the Urban Therapist, an intercultural path-beater scavenging the discarded edgelands of our settlements and memories; confronting us with our hubristic follies and rekindling our capacity for compassion and community. He works and walks all over the world but has never really left Huddersfield. <br /> Web: <a href="http://philwood.eu/">http://philwood.eu/</a> <br />Blog: <a href="http://subversiveurbanism.tumblr.com/">http://subversiveurbanism.tumblr.com</a> <br /> <a href="https://twitter.com/PhilWood11">@PhilWood11 </a> '
