@@ -33,6 +33,13 @@ permalink: pretty
 #Events collection
 
 friday-events:
+  - title: Harold Wilson's Turbo Dérive
+    by: Phill Harding
+    location: "St. George's Square (Train Station)"
+    time: 1.45pm - 3.15pm
+    description: "In a special 'warm-up' event for the Congress, Phill Harding will lead a silent walk of rapid passage and high velocity through Huddersfield, following a dynamic algorithmically derived route. Departing from the statue of Harold Wilson outside the Railway Station (St George's Square), this will be an energetic walk of one hour's duration, full of surprises. Come prepared!"
+    type: Walk
+    note: The walk is for 1 hour and leaves on the dot at 2pm so please arrive at 1.45-1.50 for a bit of a preamble and chat.
   - title: Psychogeography Extreme
     by: Phil Smith
     location: Heritage Quay
@@ -140,6 +147,9 @@ bios:
   - name: David Smith
     description: David the Participation and Engagement Officer at Heritage Quay. Dave spends his days dreaming up ideas for strange and wonderful experiences at Heritage Quay and he'll be the one running round with a clipboard and risk assessment.
     image: david-smith.jpg
+  - name: Phill Harding
+    description: 
+    image: 
   - name: The Bored in the City Collective
     description: The bored in the city collective are a motley group of psychogeographers, artists, writers and poets that reside in the Manchester region. Over the past 15 years they have produced numerous situationist inspired leaflets, zines, comic books and DIY maps in relation to reflecting on the capitalist gentrification of Manchester city centre, the war on terror and a critique of spectacular society. They have been involved in numerous stunts and interventions and their greatest achievement has been the levitation of both bus stations in Manchester June 2008. You can contact them at <a href="mailto:Boredinthecity@hotmail.co.uk">Boredinthecity@hotmail.co.uk</a>
     image:
