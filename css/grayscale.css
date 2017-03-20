@@ -432,3 +432,50 @@ font-style: italic;
 .stream {
 padding-right: 4px;
 }
+
+
+#mc_embed_signup{ clear:left; font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;}
+#mc_embed_signup input {color:black; font-size:larger; padding-top: 1px; padding-bottom: 1px;}
+#newsletter .dark input[type=text]::-webkit-input-placeholder, #newsletter .dark input[type=email]::-webkit-input-placeholder {
+  color: #2E3C61;
+}
+
+#newsletter .dark input[type=text]:-moz-placeholder, #newsletter .dark input[type=email]:-moz-placeholder { /* Firefox 18- */
+  color: #2E3C61;
+}
+
+#newsletter .dark input[type=text]::-moz-placeholder, #newsletter .dark input[type=email]::-moz-placeholder {  /* Firefox 19+ */
+  color: #2E3C61;
+}
+
+#newsletter .dark input[type=text]:-ms-input-placeholder, #newsletter .dark input[type=email]:-ms-input-placeholder {
+  color: #2E3C61;
+}
+#newsletter .dark .button.stroke {
+  border: 5px solid white;
+   box-shadow: none;
+  color: white;
+  border-radius: 0px;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+  font-size: 20px;
+  font-weight: 700;
+height: 50px;
+}
+
+#newsletter .col6 {
+float: left;
+width: 48% !important;
+max-width: 600px;
+clear: none !important;
+}
+
+#newsletter .col11 {
+float: left;
+width: 91.6666%  !important;
+max-width: 1100px;
+}
+
+#newsletter .col12 {
+width: 100%  !important;
+display: block;
+}
