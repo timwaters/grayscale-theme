@@ -1,0 +1,31 @@
+friday-events:
+  - title: a title
+    by: a person
+    location: a location
+    time: a time
+    description: a description
+    type: a type of event
+    note: a note about the event
+    
+saturday-events:
+  - title: a title
+    by: a person
+    location: a location
+    time: a time
+    description: a description
+    type: a type of event
+    note: a note about the event
+    
+sunday-events:
+  - title: a title
+    by: a person
+    location: a location
+    time: a time
+    description: a description
+    type: a type of event
+    note: a note about the event
+
+bios:
+  - name: first last
+    description: bio with links
+    image: image-filename

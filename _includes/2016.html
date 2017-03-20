@@ -1,20 +1,12 @@
 <!-- Events Section -->
-<section id="events" class="container content-section text-left">
+<section id="2016" class="container content-section text-left">
     <div class="row">
         <div class="col-lg-10 col-lg-offset-2">
-          <h2>2017 Events coming soon.</h2>
-            <h3>Watch this space for details about the 2017 Congress</h3>
-            <hr />
-            
-<!--     
-            <p class="event-link">
-              <a href="#friday">Friday 8 September</a><br /> 
-              <a href="#saturday">Saturday 9 September</a>
-              <a href="#sunday">Sunday 10 September</a><br />
-             </p>
-            <h3 id="friday">Friday 8th September</h3>
+            <h2>2016 Huddersfield. Fourth World Congress of Psychogeography</h2>
+            <p class="event-link"><a href="#friday">Friday 9 September 2016</a><br />  <a href="#saturday">Saturday 10 September 2016</a></p>
+            <h3 id="friday">Friday 9th September 2016</h3>
             <ul class="list-unstyled">
-            {% for event in site.data.2017.friday-events %}
+            {% for event in site.data.2016.friday-events %}
               <li>
                 <p>
                 <span class="event-highlight event-type">{{ event.type}}:</span>  <strong class="event-title">{{ event.title }}</strong> <br />
@@ -29,9 +21,9 @@
             {% endfor %}    
           </ul>
           
-          <h3  id="saturday">Saturday 9th September</h3>
+          <h3  id="saturday">Saturday 10th September 2016</h3>
           <ul class="list-unstyled">
-          {% for event in site.data.2017.saturday-events %}
+          {% for event in site.data.2016.saturday-events %}
             <li>
               <p>
               <span class="event-highlight event-type">{{ event.type}}:</span>  <strong>{{ event.title }}</strong> <br />
@@ -45,25 +37,25 @@
             </li>
           {% endfor %}    
         </ul>
-        
-        <h3  id="saturday">Sunday 10th September</h3>
-        <ul class="list-unstyled">
-        {% for event in site.data.2017.sunday-events %}
-          <li>
-            <p>
-            <span class="event-highlight event-type">{{ event.type}}:</span>  <strong>{{ event.title }}</strong> <br />
-            <span class="event-highlight">{{ event.time }}</span>               
-            {{ event.location }} <br />
-            <span class="event-highlight">  By:</span>  {{ event.by }} <br />
-            {{ event.description }} <br />
-
-            {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
-          </p>
-          </li>
-        {% endfor %}    
-      </ul>
--->      
 
         </div>
+    </div>
+</section>
+
+
+<section id="who" class="container content-section text-left who-section">
+   
+        <div class="col-lg-8 col-lg-offset-3">
+            <h2>Who is Taking Part?</h2>
+            {% for bio in site.data.2016.bios %}
+             <div class="row bio-row">
+              <div class="col-sm-2 ">{% if bio.image %} <img class="bio-image" src="/img/bio/{{ bio.image }}" />{% else %} <img src="/img/bio/globe.png" />  {% endif %} </div>
+              <div class="col-sm-8 clearfix">
+                <strong>{{bio.name}}</strong><br />
+                {{bio.description}}
+              </div>
+             </div>
+            {% endfor %} 
+ 
     </div>
 </section>
