@@ -479,3 +479,17 @@ max-width: 1100px;
 width: 100%  !important;
 display: block;
 }
+
+#proposals ul {
+      font-size: 20px;
+}
+
+#proposals .list {
+  margin-bottom: 5px;
+}
+
+#proposals h3 {
+  padding-top: 20px;
+  margin-bottom: 25px;
+}
+
