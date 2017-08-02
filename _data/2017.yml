@@ -105,18 +105,100 @@ sunday-events:
     note: a note about the event
 
 bios:
-  - name: first last
-    description: bio with links
-    image: image-filename
 
   - name: Graeme Murrell
-    description: bio with links
-    image: image-filename
+    description: "Graeme Murrell is an artist based in Huddersfield. His interest is mostly connected to experimental multimedia works involving text, sound and performance. Since the 1990s, he has been involved with several publication projects such as Frontal Lobe, a small press magazine of poetry, scurrilous writing and other rants and Electric Dogs, an unpublished novel. He has also been the member of avant-jazz band Trump and later the freeform music group the 'F*ks and the duo The Importance Of...' He is the editor of the website Monocular Times which curates Situationist writing and other writing and hosts the site of pressure group Huddersfield Gem who are dedicated to the preservation of Huddersfield’s Queensgate Market. He is the member of the Sedentary Committee for the Consideration of Gradual Change and continues to curate the Institute for the Preservation of Bad Art, which is dedicated to saving poorly executed artworks from landfill. He devised and led ‘Over Here Over There’ which was a psychogeographical exploration of the territory between twin towns in West Yorkshire and the Ruhr Valley."
 
+  - name: Fenella Brandenberg & David Bollinger
+    description: "Bollinger and Brandenberg are world leading psychogeographers. They didn't send in a detailed biography but the curious are encouraged to watch for further information which will be revealed on these guest blogs: <a href='http://particulations.blogspot.co.uk'>http://particulations.blogspot.co.uk</a> and <a href='https://notanotherpsychogeographyblog.wordpress.com'>https://notanotherpsychogeographyblog.wordpress.com</a>"
 
-  - name: Witold Van Ratingen
-    description: bio with links
+  - name: Annie Watson
+    description: "My PhD is about female film directors, and why they are in the minority. Research so far tends to highlight the gap between education and industry as the moment in which the gender divide increases. I am very interested in exploring this transition, as well as the little researched point of 're-entry' as an older woman into the industry. I am the UK national researcher for a pan-European report mapping where the female film directors are across Europe, due for completion in early 2016.
+    As co-founder of Sheffield Hallam Media Arts Walking Research Group, my project is KNITWALKS. I knit as I walk, and the knitting becomes a map. I worked as a film editor for ten years, before directing music videos with London's INDEPENDENT agency. My promo for IMONSTER'S Daydream in Blue was nominated for Q Award's Video of the Year. I have directed many short films, KNITTING A LOVE SONG being nominated for a BAFTA. I was selected as one of Screen International's Stars of Tomorrow and have written three feature films."
 
   - name: Morag Rose
-    description: "Morag Rose has developed a unique artistic-activist-academic praxis. She co-founded The LRM (Loiterers Resistance Movement) a psychogeographical collective based in Manchester, UK. Their manifesto says they believe 'our city is wonderful and made for more than shopping. The streets belong to everyone and we want to reclaim them for play and revolutionary fun.' In 2016 The LRM celebrated their tenth birthday with a 3 month extravaganza at Peoples History Museum which included work from over 50 international artists. Morag’s PhD research focuses on psychogeographies, gender and public space and her mission has always been to create a psychogeography that is accessible, diverse and critically engaging. Morag is based in the Department of Urban Studies and Planning at The University of Sheffield. She is currently conducting walking interviews with women who live, work or study in Manchester, exploring how they think, feel and experience the city.  The pace, direction and subject of the interviews are set by the participants. Her definition of walking includes sticks, wheels and other mobility aids and all women over 18 are welcome. There will also be some group walks using creative methods later in the year. If you would like more information or are interested in participating please email <a href='mailto:mltrose1@sheffield.ac.uk'>mltrose1@sheffield.ac.uk</a>"
+    description: "I am based in the Department of Urban Studies and Planning at The University of Sheffield. My research focuses on gender, public space and pedestrian methodologies. I am currently conducting walking interviews with women who live, work or study in Manchester, exploring how they think, feel and experience the city.  The pace, direction and subject of the interviews are set by the participants. My definition of walking includes sticks, wheels and other mobility aids and all women over 18 are welcome. There will also be some group walks using creative methods later in the year. This research has been approved by the ethics committee at The University of Sheffield.  If you would like more information or are interested in participating please email <a href='mailto:mltrose1@sheffield.ac.uk'>mltrose1@sheffield.ac.uk</a>"
+
+  - name: Ursula Troche
+    description: "My studies include Intercultural Therapy at Goldsmith’s College, London. Since then I have been giving papers at conferences and most of my work, both theoretical and practical, is broadly based on intercultural and therapeutic themes. I write and perform poetry and give workshops, many of them therapeutic writing workshops, some of them in daycentres. Performances include the Human Rights Festival and the Colour of London Festival; Poetry collections include ‘Embraceable – Notes from Different Places called Home’. I am also on the Introductory Course of the Philadelphia Association for Psychoanalytic Psychotherapy."
+
+  - name: Phil Smith
+    description: "Dr. Phil Smith has claws in several different worlds. One, large and wide, is in performance and music theatre [he has written more than 100 plays for companies including St Petersburg State Comedy Theatre, Opera North and Perpetual Motion, and he is dramaturg with TNT (Munich)]. From site-specific performances in South Devon beach huts, lidos, tea shops and other unconventional settings, to mis-guides in National Trust properties, to counter-tours and drifts in city streets,Crab Man has long practised what he preaches in this Handbook. He is Associate Professor in the School of Humanities and Performing Arts at the University of Plymouth and a visiting lecturer at the University of Exeter.  He is also one of four core member of a group of artist-researchers called Wrights and Sites, who have generated a range of mis-guides, performances, possible cities and forests and other wonders."
+
+  - name: Roy Bayfield
+    description: "Roy Bayfield has appeared in a list of 'exemplary ambulatory explorers', is well known for his explorations of the notorious Argleton (a Google Maps un-town) and is one of the small group of contemporary walker-writers who are stepping out beyond the work of W.G. Sebald, Will Self and Iain Sinclair. He is the author of Desire Paths: Real Walks to Nonreal Places (Triarchy Press, 2016) and of a chapter in Walking Inside Out (Rowman & Littlefield, 2015)."
+
+  - name: Ally Standing
+    description: Ally Standing is a Birmingham based visual artist and writer, with a psychogeographic, interdisciplinary practice, exploring ideas surrounding the built environment. Post-war architecture, postmodern space, and public art are some of her main areas of research. Ally also lectures in Contextual Studies at Birmingham City University's School of Visual Communication.
+
+  - name: Gavin Rogers
+    description: "Gavin Rogers is an international artist, performer and socially engaged researcher living and working in the United Kingdom. His practice is situated across a range of media from performance to sculpture. Gavin has particular interest in the area of identity; juxtaposing, stereotyping and discovering personal, social and psychogeographical identities though visual, textual and verbal languages. Alongside his artistic practice Gavin runs workshops, seminars, lectures and teaching sessions within and outside of academia including: being the curator of the USA to UK Creative Exchange for Fulbright Scholars and coordinating the National Art Saturday Club."
+
+  - name: Rob Kilner
+    description: Rob is a walker and photographer from Leeds.
+
+  - name: Sonia Overall
+    description: "Sonia teaches on the Creative and Professional Writing programme at Canterbury Christ Church University. She writes fiction and poetry and explores experimental creative forms. She is an avid psychogeographer and draws on walking practices, psychogeography and place-based methods in her writing and research.She is the founder of Peregrinations: Walking and Landscape Research Group in the School of Humanities, and of an international network of walking creatives and academics, <A href='http://www.women-who-walk.org'>Women Who Walk<a/> <a href='https://twitter.com/womenwhowalknet'>@womenwhowalknet</a>"
+
+
+  - name: Gopal Dutta
+    description: Gopal Dutta is a filmmaker whose works have previously aired at the Leeds International Film Festival.
+
+  - name: Gareth Rees
+    description: "I am the founder of the website Unofficial Britain, and author of Marshland (Influx Press, 2013). My work has featured in anthologies including An Unreliable Guide to London (Influx Press), Mount London (Penned in the Margins), Acquired for Development By... [Influx Press], Walking Inside Out: Contemporary British Psychogeography (Rowman & Littlefield), The Ashgate Companion to Paranormal Cultures (Ashgate), and the spoken word album A Dream Life of Hackney Marshes (Clay Pipe Music)."
+
+
+  - name: Elia Rita
+    description: "Elia Rita is a Spanish artist based in San Francisco. Her current practice looks into the act of walking as performative response to the understanding of the everyday beyond its known frontiers. The assumed transience of the public space and its normative use is confronted with the assumed permanence of the notion of home through public interventions and intimate performances. Delving into new realities is possible in any place at any time; one’s presence there is all that is need. Her actions seek for poetic purposes and take place in the terrain of the absurd - where art does its best - where ethics and aesthetics aren’t constrained to the burdens of logic."
+
+
+  - name: Sara Rees
+    description: "I’m an artist and curator based in Cardiff, Wales. Awarded First Class Honours in Visual Performance at Dartington College of Arts, I later gained Masters in Fine Art at Cardiff School of Art & Design with Distinction. I have been the recipient of a number of awards and prizes, including a Creative Wales Award and The Leverhulme Trust Award, and my work is exhibited internationally. Conceptually driven, I work across mediums, including video, photography, performance, installation, intervention, writing, and relational art. Over the course of my practice a constellation of spatial themes has emerged, concerned with the politics and poetics of space, memory and history in relation to place, and ruins as a site of both trauma and transformation. Arising from this territory, and inextricably interwoven through it, are questions about the nature of time, liminality and subjectivity. Whilst I often present work within a gallery context, a vital strand of my practice is site-specific, creating artworks for a diverse range of sites, from bucolic woodlands to a derelict ex-Soviet power station. Responding as much to aspects of a given site as to contemporary global conditions, and often blurring the boundaries between reality and fiction, my work seeks to be both playful and provocative."
+
+  - name: Lloyd Spenser
+    description: "I first became seriously involved in photography while working for the anti-Apartheid publishing house, Ravan Press in Johannesburg, South Africa. Then (1981-2) and later in Wigan and Manchester I helped start and run film and photography workshops and helped mount several photographic exhibitions in what I thought of as ‘documentary’ mode. Together with John Davies, I helped found the Counter Image photographic workshop in Manchester. As well as editing a book of essays by John Berger and working with him on his major statement on photography, Another Way of Telling, I have written two ‘comic books’ on philosophy, Hegel for Beginners and The Enlightenment for Beginners. I spent a quarter of a century teaching undergraduates and have run a number of on-line courses and workshops on various aspects of photography and on creativity generally. In addition to the exhibition on Briggate, I conducted a second long-term photographic project exploring night life on the streets of inner-city Leeds with Stephen Griffin. At present I am working on a series of projects involving portraiture, foliage and forests, and dance photography."
+
+  - name: Victor Buehring
+    description: "My experiences have been varied and engaging. In Oxford, I was sent to meet one of the world’s foremost violin virtuosos: Maxim Vengerov. In Swansea, I was referred to 'someone with a cold at Rhossili beach' who in turn sent me to locate a six foot tall blonde woman at an old boozer.  I smile thinking on the many evenings I spent sitting in a Mc Donald’s on the lookout for 25 pockets of Swindon from someone with multi-coloured hair or the time I asked at a climbing centre to meet Tufa, the owner’s husky dog I had been sent to hug. For [25] Pockets of [London] I enjoyed exploring [25] Pockets of [Bristol] and so after moving to Wales, decided to explore Swansea and Cardiff. Since then, I’ve relocated to Oxford and so explored 25 Pockets of Oxford."
+
+  - name: Claudia Sternberg
+    description: "Claudia is Senior Research Associate at the European Institute, University College London, UK. She holds a PhD from Cambridge and an MA from Yale, and taught and researched at Oxford for six years before joining University College"
+
+  - name: Russell King
+    description: "Russell runs his own business consultancy based in Halifax, concerned with major events. He has over 30 years’ experience stretching back to some of the major disasters of the 1980s, which has latterly included involvement in the 2012 London Olympics and the 2014 Tour de France Grand Depart Yorkshire."
+
+  - name: Riccardo Arena
+    description: "I’m an Italian artist and researcher based in Milan. Over the years, I have dedicated myself to the creation of long-term projects in different countries, such as China, Argentina, Russia and Iran. Completion time and content of these projects were defined through a series of accidental events arising during the research processes. The working method is based on the practices of researching, cataloguing and organizing seemingly disparate elements. Through the assemblage of this material my aim is to interweave narrative structures which come to constitute the base and support for the development of each work."
+
+  - name: Bridget Sheridan
+    description: "Bridget is a researcher in visual arts. Her research investigates the relationship between art walking, the landscape and memory. Besides teaching art at Jean Jaures University in Toulouse, her own artwork has been exhibited by various galleries and art centres in Europe."
+
+  - name: Simon Bradley
+    description: Simon is an Ambulant Sound Artist & Oral Historian based in Leeds.
+
+  - name: Andrea Capstick
+    description: Andrea is Senior Lecturer in Dementia Studies and Programme Leader in the MSc Dementia Studies at the University of Bradford, and also a Fellow of the National Institute for Health Research.
+
+
+
+
+
+
+
+
+
+  - name: Alex Bridger
+    description: 'Alex Bridger works at the University of Huddersfield teaching critical and community psychology and approaches to research including psychogeography and the analysis of media texts and political rhetoric. He also involved with chairing the Huddersfield Psychogeographical Network and is currently writing a book titled Psychogeography and Psychology. You can contact him and/or find out more about his work at <br /> Email: <a href="mailto:a.j.bridger@hud.ac.uk">a.j.bridger@hud.ac.uk</a>, <a href="https://www.hud.ac.uk/ourstaff/profile/index.php?staffid=483">University Staff profile</a> <br /> Facebook: <a href="https://www.facebook.com/groups/HuddersfieldPsychogeographyNetwork/">Huddersfield Psychogeographical Network</a><br /> Blog: <a href="https://notanotherpsychogeographyblog.wordpress.com">https://notanotherpsychogeographyblog.wordpress.com</a> '
+
+  - name: Tim Waters   
+    description: Tim is a psychogeographer, digital humanities enthusiast and freelance geographer. He likes historical maps. He's worked with many libraries and museums on historical maps, temporal geographies and vague fuzzy vernacular spaces. He has been part of Leeds Psychogeography Group and organises the annual <a href="http://terminaliafestival.org">Terminalia Festival</a> of Psychogeography. He's also responsible for this website.
+
+  - name: Phil Wood
+    description: 'Phil Wood is the Urban Therapist, an intercultural path-beater scavenging the discarded edgelands of our settlements and memories; confronting us with our hubristic follies and rekindling our capacity for compassion and community. He works and walks all over the world but has never really left Huddersfield. <br /> Web: <a href="http://philwood.eu/">http://philwood.eu/</a> <br />Blog: <a href="http://subversiveurbanism.tumblr.com/">http://subversiveurbanism.tumblr.com</a> <br /> <a href="https://twitter.com/PhilWood11">@PhilWood11 </a> '
+
+  - name: David Smith
+    description: David the Participation and Engagement Officer at Heritage Quay. Dave spends his days dreaming up ideas for strange and wonderful experiences at Heritage Quay and he'll be the one running round with a clipboard and risk assessment.
+    image: david-smith.jpg
+
+
      
