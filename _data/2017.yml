@@ -1,12 +1,91 @@
 friday-events:
-  - title: a title
-    by: a person
-    location: a location
-    time: a time
-    description: a description
-    type: a type of event
-    note: a note about the event
+  - title: Welcome Address
+    by: The Congress Organisers
+    location: Heritage Quay
+    time: 10.30
+    description: A Welcome to the Fourth World Congress of Psychogeography
+    type: Talk
+    note:  
+
+  - title: The Fundamentals of the Psychogeographical Method
+    by: Fenella Brandenberg and David Bollinger
+    location: Heritage Quay
+    time: 10.45
+    description: "Bollinger and Brandenberg are world leading psychogeographers and in this key-note talk they will take you on a grand tour of what psychogeography is all about and will explain how to go about creating your own psychogeographical adventures. <br />
+    They will also be promoting their new book, The Fundamentals of the Psychogeographical Method, which will be published by Dodo Press in 2018. Their soon to be published book has received outstanding positive reviews from well-known psychogeographers such as Luther Blissett, ‘this book will change your life!’, Victor Salamanca describing the book as ‘a journey into the heart of darkness and a fascinating snapshot of who we are, lit by Bollinger and Brandenburg’s vivid prose. I’m sure that it will be read in a thousand years from now’ and also Rudolf Rudenski commenting that ‘Psychogeography is in crisis. Anyone that calls themselves a psychogeographer is actually a pseudo-psychogeographer. Bollinger and Brandenburg show us how to carve a path through the crap of psychogeography and they boldly point the way to a new way of doing psychogeography foregrounding an agenda for social change and action’."
+    type: Talk
+    note: 
+
+  - title: "Psychologists Working Towards Social Justice: How Can We Walk The Talk?"
+    by: Brendan Bootland, Suzanne Elliot and Nick Hartley
+    location: Heritage Quay
+    time: "11.30"
+    description: "In 2015, a group of psychologists led by Dr Ste Weatherhead walked the 100 miles from the British Psychological Society offices in Leicester to the branch office in London.  Stopping at food banks, hostels and charities along the way, the aim was to raise awareness of the impact of social policies on mental health with a specific focus on food poverty, homelessness and the benefits system. Suzanne Elliott and Nick Hartley joined with the group for part of the walk.  They describe the reasons for psychologists getting involved with such projects, and discuss the tradition of community psychology from which projects like these have developed.  Suzanne, who works for a homeless mental health service in Leicester, also draws on her work experiences to further raise awareness of issues around homelessness in the UK.  Reflections on the impact of the walk and the changes in attitudes towards homelessness will also be given by Brendan who has his own lived experience of sleeping rough in Leeds."
+    type: Talk
+    note: 
     
+  - title: Short Personal Heritage Walks
+    by: Graeme Murrell
+    location: Outside
+    time: "12.00 - 12.45"
+    description: "This idea is a response both to Phil Smith's appeal at last year's 4th World Congress for inclusive derives which are accessible to those who may find it difficult to take part in the long meanderings characteristic of most flaneur activity,and to the request for activities which subvert the concept of heritage. <br />
+    This will be a short 15 minute derive involving no more than 15 participants. It will follow a zigzag route away from the source followed by a direct return to the source. Each day's derive will begin at a different source. At each point where the derive changes course, a participant will be asked to share something short (a historical or architectural reference, random thought, sweets, personal reminiscence or something else in response to the space we find ourselves in). <br />
+    The heritage exposed will therefore be shared and directionless, an overlapping narrative determined by the personal experiences and desires of the participants. Unlike a guided walk the narrative is most likely to be fractured and unexpected, and is unlikely to address any particular theme unless the participants sculpt one during their brief period together."
+    type: Walk
+    note: Tickets details coming soon. Limited to 15 people for each walk
+
+  - title: "Smells of the city: Scent, modernity and psychogeographical perspectives"
+    by: Witold Van Ratingen
+    location: Heritage Quay
+    time: a time
+    description: "Urban smells have a bad rep: typically the first to come to mind are the stench of urine, garbage, and smog. Given the medical dangers of unsanitary urban odours, it comes as no surprise that cities since modernity have viewed their own deodorization as a public responsibility. Our liberal use of chemical air fresheners, strict zoning laws, and rigorous hygiene regulations come, however, at a steep price; after all, the scents we grow up with are inextricably interwoven with our deepest memories and collective cultural identity. Smell walks have emerged as a means for urban dwellers to reacquaint and re-sensitise themselves with the most under-appreciated sensuous delight that the city can offer. Perhaps such walks could serve as a form of psychogeographic activism, in an attempt to restore lost olfactory identity to our cities. This talk will offer a brief history of urban smells and their disappearance, as well as providing a simple theoretical framework to think about environmental smells. Subsequently, we will embark on a collective 'smell walk,' following our noses to re-inscribe lost meanings and memories upon Huddersfield."
+    type: Talk & Walk
+    note: 
+
+  - title: "Walking the walk: Can psychogeography save the world?"
+    by: Morag Rose
+    location: Heritage Quay
+    time: 13.45
+    description: "What is the point of getting lost in the contemporary city? This provocative talk will question the relevance of psychogeography today and ask what difference creative walking can really make within the all-encompassing spectacle.  In the past Morag has claimed that 'the dérive has the potential to transform the everyday, to illuminate and challenge narratives of privatisation, commodification and securitization of space, and navigate increasingly blurred boundaries between public/private' but what difference does it really make? Can psychogeography actually bring any useful tools, tactics and lessons to radical struggles or has its political potential been entirely neutered by commodification and recuperation? These questions will be explored through field notes and reflections from many years on the psychogeographical frontline. Morag Rose has developed a unique artistic-activist-academic praxis. She co-founded The LRM (Loiterers Resistance Movement) a psychogeographical collective based in Manchester, UK."
+    type: Talk
+    note: 
+
+  - title: "SOLAR: Walking at the Speed of Light"
+    by: Annie Watson
+    location: Heritage Quay
+    time: 14.45
+    description: "SOLAR is a collaborative arts and technology project that maps the solar system across the city of Sheffield, England, to the nearby Peak District through a series of specially commissioned artworks and a related walking app: <a href='https://itunes.apple.com/gb/app/solarwalksheffield/id1210937903?mt=8'>available on Itunes</a>. <br />
+    Our intention is to collaborate with an international academic community, using this app as a tool to map unique walks in other countries and cities. The SOLAR app allows individual or curated artworks to be embedded for each location, so each SOLAR walk would be bespoke. We envisage that sound, music or text could be commissioned for each planet. The eight planets of our solar system were assigned to a geographical location at a distance from the centre of Sheffield (the sun) representing the relative orbit of the planet and measured at a scale where the average walking speed represents the speed of light.<br />
+    Participants enjoyed the gamification of finding the planets, and downloading the artwork, exploring parts of the city they had previously not walked around, and the experience of walking the distances between the planets. Neptune is so far away!"
+    type: Talk
+    note: 
+
+  - title: "Walking Over Edges: A Personal Embodied Practice Experience"
+    by: Ursula Troche
+    location: Heritage Quay
+    time: 15.45
+    description: "Over the years I have come to realize that I am, increasingly, practising psychogeographic walking. It echoes and mirrors in the landscape, what I do in my work as an artist (and migrant): in poetry and photography, performance. My art-work is not ordinary work, ‘not a proper job’, not accounting, factory work, intangible.  And here psychogeographic terrain comes in: doing something, going somewhere beyond proper definition, causing consternation to the (anti) social (divisive) set-up. Walking/work here means going over edges of ready-made definitions, imaginations, concepts, assumptions. In (quasi-postcolonial) refusal of mimicry (Bhaba), it is about dropping repetitions and finding new spaces, new texts, new signs and symbols. Like entropy in communication theory (Shannon, 1948) and moving ‘from work to text’ (Barthes). Like embodying the Id in psychoanalytic theory: the walking id: I am walking, id is walking! Taking up the space of the unconscious in reverse:  I, the walker, am the unconscious to society, but conscious to myself. <br />
+    In my presentation (with poetry and photos), I like to talk about/discuss the challenges and (social) opportunities of engaging in this practice which eludes popular definition relating to, e.g.: positive provocation/irritation, nature-writing, psychotherapy, (non-dualistic) revolution."
+    type: Talk
+    note:   
+
+  - title: New Spectacle, New Drift, New Psyche
+    by: Phil Smith
+    location: Heritage Quay
+    time: 16.45
+    description: "Through the political spasms of the last year, clumsy expressions of deep rhythms of change, a new kind of Spectacle is emerging from its old ‘integrated’ form into a new meshwork of ‘post-truths’. This trend to vaporisation is thinning the relationships between different landscapes (including rural and urban) - and the jellies are coming!! In this presentation I will attempt to describe how psychogeographers can draw on the tensions within such changes and exploit them for their own ‘drifts’, arming their bodies in transit. I will describe a ‘war on subjectivity’, the opportunities for walking in the ripples of atomic suburbs and a new kind of dérive for developing a resistant psyche, adapted to the conditions of the ‘war’. I will conclude with a few findings from my recent ‘Anywhere’ project about how we can use the abandoned ruins of New Babylon curled up inside hidden dimensions of the hypermodern city."
+    type: Talk
+    note: 
+
+  - title: Psychogeography Of The Fourth World
+    by: Roy Bayfield
+    location: Heritage Quay
+    time: 17.45
+    description: "The Fourth World is a fictional entity that has featured in a range of comic books and associated media since its creation in the 1970s by Jack Kirby, ‘the William Blake of comics’ (Grant Morrison).  In series such as ‘The New Gods’ and ‘The Forever People’ this mythical ‘world’ intersected with our own, in powerful and, arguably, prophetic illustrated narratives.  As a teenage boy Roy Bayfield would undertake lengthy walks to seek out these comic books and the irruptions of the numinous they could cause. Having recreated these walks using techniques from his book ‘Desire paths: real walks to nonreal places’, Roy will provide an experiential account of the Fourth World as it manifests today in the mundane reality of South Coast streets."
+    type: Talk
+    note: 
+
+
 saturday-events:
   - title: a title
     by: a person
@@ -29,3 +108,15 @@ bios:
   - name: first last
     description: bio with links
     image: image-filename
+
+  - name: Graeme Murrell
+    description: bio with links
+    image: image-filename
+
+
+  - name: Witold Van Ratingen
+    description: bio with links
+
+  - name: Morag Rose
+    description: "Morag Rose has developed a unique artistic-activist-academic praxis. She co-founded The LRM (Loiterers Resistance Movement) a psychogeographical collective based in Manchester, UK. Their manifesto says they believe 'our city is wonderful and made for more than shopping. The streets belong to everyone and we want to reclaim them for play and revolutionary fun.' In 2016 The LRM celebrated their tenth birthday with a 3 month extravaganza at Peoples History Museum which included work from over 50 international artists. Morag’s PhD research focuses on psychogeographies, gender and public space and her mission has always been to create a psychogeography that is accessible, diverse and critically engaging. Morag is based in the Department of Urban Studies and Planning at The University of Sheffield. She is currently conducting walking interviews with women who live, work or study in Manchester, exploring how they think, feel and experience the city.  The pace, direction and subject of the interviews are set by the participants. Her definition of walking includes sticks, wheels and other mobility aids and all women over 18 are welcome. There will also be some group walks using creative methods later in the year. If you would like more information or are interested in participating please email <a href='mailto:mltrose1@sheffield.ac.uk'>mltrose1@sheffield.ac.uk</a>"
+     

@@ -8,68 +8,63 @@
       <p><a href="4wcop_draft_programme.pdf">Draft Programme for 8,9,10 September</a></p>
       <p><a href="4wcop_events_and_speakers.pdf">Event Descriptions and Speaker Biographies</a></p>
 
-      <h3>Sign up to get updates and details about the 2017 Congress</h3>
-      <hr />
-      {% include mailchimp_form.html %}
-            
-<!--     
-            <p class="event-link">
-              <a href="#friday">Friday 8 September</a><br /> 
-              <a href="#saturday">Saturday 9 September</a>
-              <a href="#sunday">Sunday 10 September</a><br />
-             </p>
-            <h3 id="friday">Friday 8th September</h3>
-            <ul class="list-unstyled">
-            {% for event in site.data.2017.friday-events %}
-              <li>
-                <p>
-                <span class="event-highlight event-type">{{ event.type}}:</span>  <strong class="event-title">{{ event.title }}</strong> <br />
-                <span class="event-highlight">{{ event.time }}</span>               
-                {{ event.location }} <br />
-                <span class="event-highlight">  By:</span>  {{ event.by }} <br />
-                {{ event.description }} <br />
-                </p>
-                {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
-            
-              </li>
-            {% endfor %}    
-          </ul>
-          
-          <h3  id="saturday">Saturday 9th September</h3>
-          <ul class="list-unstyled">
-          {% for event in site.data.2017.saturday-events %}
-            <li>
-              <p>
-              <span class="event-highlight event-type">{{ event.type}}:</span>  <strong>{{ event.title }}</strong> <br />
-              <span class="event-highlight">{{ event.time }}</span>               
-              {{ event.location }} <br />
-              <span class="event-highlight">  By:</span>  {{ event.by }} <br />
-              {{ event.description }} <br />
-
-              {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
-            </p>
-            </li>
-          {% endfor %}    
-        </ul>
-        
-        <h3  id="saturday">Sunday 10th September</h3>
-        <ul class="list-unstyled">
-        {% for event in site.data.2017.sunday-events %}
-          <li>
-            <p>
-            <span class="event-highlight event-type">{{ event.type}}:</span>  <strong>{{ event.title }}</strong> <br />
-            <span class="event-highlight">{{ event.time }}</span>               
-            {{ event.location }} <br />
-            <span class="event-highlight">  By:</span>  {{ event.by }} <br />
-            {{ event.description }} <br />
-
-            {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
+      <p class="event-link">
+        <a href="#friday">Friday 8 September</a><br />
+        <a href="#saturday">Saturday 9 September</a> <br />
+        <a href="#sunday">Sunday 10 September</a><br />
+      </p>
+      <h3 id="friday">Friday 8th September</h3>
+      <ul class="list-unstyled">
+      {% for event in site.data.2017.friday-events %}
+        <li>
+          <p>
+          <span class="event-highlight event-type">{{ event.type}}:</span>  <strong class="event-title">{{ event.title }}</strong> <br />
+          <span class="event-highlight">{{ event.time }}</span>               
+          {{ event.location }} <br />
+          <span class="event-highlight">  By:</span>  {{ event.by }} <br />
+          {{ event.description }} <br />
           </p>
-          </li>
-        {% endfor %}    
+          {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
+      
+        </li>
+      {% endfor %}    
       </ul>
--->      
+    
+      <h3  id="saturday">Saturday 9th September</h3>
+      <ul class="list-unstyled">
+      {% for event in site.data.2017.saturday-events %}
+        <li>
+          <p>
+          <span class="event-highlight event-type">{{ event.type}}:</span>  <strong>{{ event.title }}</strong> <br />
+          <span class="event-highlight">{{ event.time }}</span>               
+          {{ event.location }} <br />
+          <span class="event-highlight">  By:</span>  {{ event.by }} <br />
+          {{ event.description }} <br />
 
-        </div>
+          {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
+        </p>
+        </li>
+      {% endfor %}    
+    </ul>
+    
+    <h3  id="saturday">Sunday 10th September</h3>
+    <ul class="list-unstyled">
+    {% for event in site.data.2017.sunday-events %}
+      <li>
+        <p>
+        <span class="event-highlight event-type">{{ event.type}}:</span>  <strong>{{ event.title }}</strong> <br />
+        <span class="event-highlight">{{ event.time }}</span>               
+        {{ event.location }} <br />
+        <span class="event-highlight">  By:</span>  {{ event.by }} <br />
+        {{ event.description }} <br />
+
+        {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
+      </p>
+      </li>
+    {% endfor %}    
+    </ul>
+   
+
     </div>
+  </div>
 </section>
