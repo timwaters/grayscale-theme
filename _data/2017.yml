@@ -19,7 +19,7 @@ friday-events:
   - title: "Psychologists Working Towards Social Justice: How Can We Walk The Talk?"
     by: Brendan Bootland, Suzanne Elliot and Nick Hartley
     location: Heritage Quay
-    time: "11.30"
+    time: "11.15"
     description: "In 2015, a group of psychologists led by Dr Ste Weatherhead walked the 100 miles from the British Psychological Society offices in Leicester to the branch office in London.  Stopping at food banks, hostels and charities along the way, the aim was to raise awareness of the impact of social policies on mental health with a specific focus on food poverty, homelessness and the benefits system. Suzanne Elliott and Nick Hartley joined with the group for part of the walk.  They describe the reasons for psychologists getting involved with such projects, and discuss the tradition of community psychology from which projects like these have developed.  Suzanne, who works for a homeless mental health service in Leicester, also draws on her work experiences to further raise awareness of issues around homelessness in the UK.  Reflections on the impact of the walk and the changes in attitudes towards homelessness will also be given by Brendan who has his own lived experience of sleeping rough in Leeds."
     type: Talk
     note: 
@@ -37,7 +37,7 @@ friday-events:
   - title: "Smells of the city: Scent, modernity and psychogeographical perspectives"
     by: Witold Van Ratingen
     location: Heritage Quay
-    time: a time
+    time: 12.45
     description: "Urban smells have a bad rep: typically the first to come to mind are the stench of urine, garbage, and smog. Given the medical dangers of unsanitary urban odours, it comes as no surprise that cities since modernity have viewed their own deodorization as a public responsibility. Our liberal use of chemical air fresheners, strict zoning laws, and rigorous hygiene regulations come, however, at a steep price; after all, the scents we grow up with are inextricably interwoven with our deepest memories and collective cultural identity. Smell walks have emerged as a means for urban dwellers to reacquaint and re-sensitise themselves with the most under-appreciated sensuous delight that the city can offer. Perhaps such walks could serve as a form of psychogeographic activism, in an attempt to restore lost olfactory identity to our cities. This talk will offer a brief history of urban smells and their disappearance, as well as providing a simple theoretical framework to think about environmental smells. Subsequently, we will embark on a collective 'smell walk,' following our noses to re-inscribe lost meanings and memories upon Huddersfield."
     type: Talk & Walk
     note: 
@@ -46,7 +46,7 @@ friday-events:
     by: Morag Rose
     location: Heritage Quay
     time: 13.45
-    description: "What is the point of getting lost in the contemporary city? This provocative talk will question the relevance of psychogeography today and ask what difference creative walking can really make within the all-encompassing spectacle.  In the past Morag has claimed that 'the dérive has the potential to transform the everyday, to illuminate and challenge narratives of privatisation, commodification and securitization of space, and navigate increasingly blurred boundaries between public/private' but what difference does it really make? Can psychogeography actually bring any useful tools, tactics and lessons to radical struggles or has its political potential been entirely neutered by commodification and recuperation? These questions will be explored through field notes and reflections from many years on the psychogeographical frontline. Morag Rose has developed a unique artistic-activist-academic praxis. She co-founded The LRM (Loiterers Resistance Movement) a psychogeographical collective based in Manchester, UK."
+    description: "What is the point of getting lost in the contemporary city? This provocative talk will question the relevance of psychogeography today and ask what difference creative walking can really make within the all-encompassing spectacle. In the past Morag has claimed that “the dérive has the potential to transform the everyday, to illuminate and challenge narratives of privatisation, commodification and securitization of space, and navigate increasingly blurred boundaries between public/private” but what difference does it really make? Can psychogeography actually bring any useful tools, tactics and lessons to radical struggles or has its political potential been entirely neutered by commodification and recuperation? These questions will be explored through field notes and reflections from many years on the psychogeographical frontline."
     type: Talk
     note: 
 
@@ -87,14 +87,172 @@ friday-events:
 
 
 saturday-events:
-  - title: a title
-    by: a person
-    location: a location
-    time: a time
-    description: a description
-    type: a type of event
-    note: a note about the event
-    
+
+  - title: "Dérive through the archives"
+    by: Dave Smith
+    location: Break-Out Room
+    time: "11.00"
+    description: "Join Dave Smith on an adventure through the Heritage Quay archives. What stories, ideas and connections exist between seemingly disparate objects and how can we trace them? In this workshop, help create new narratives and relationships across time and space, exposing the gaps between conventional historiography and the wider world. This is archival research meets fever dream and will let you as much about yourselves as historical fact. No prior knowledge actively encouraged."
+    type: Workshop
+    note: This is repeated in the afternoon
+
+  - title: Introduction to Derive Day
+    by: West Yorkshire Traipsers
+    location: Auditorium
+    time: "11.00"
+    description: Today, 9 Sept. is Dérive Day, organised by Dérive App. Join flaneurs across the world in a hosted dérive. Starting a number of times during the day, participants are presented the exact same task cards simultaneously wherever you are in the world. Share your experiences on social media as a testimony to your own unique dérive, photos, thoughts and locations around the world.
+    type: Talk / Walk
+    note:
+
+  - title: "Digital mythologies, virtual ambulations and the cyberflâneur: Psychogeography in the Internet age"
+    by: Ally Standing & Gaving Rogers
+    location: Auditorium 
+    time: "12.00"
+    description: "'In a dérive, one or more persons, during a certain period, drop their usual motives for movement and action, their relations, their work and leisure activities, and let themselves be drawn by the attractions of the terrain and the encounters they find there.' (Debord, 1956) Despite being over 50 years old, this quote from Guy Debord’s Theory of the Dérive has a certain contemporary familiarity - substitute ‘In a dérive’ for ‘When browsing’, and this would serve as an appropriate description of the kind of (often idle)Internet surfing which most of us engage in on a daily basis. <br />
+    In a performative lecture touching upon various facets of life in the digital age - such as social media, augmented reality, and web mapping services - we will explore psychogeography in the age of the app, considering the rise (and fall) of the cyberflâneur, and whether or not certain recent technological advancements have changed what it means to explore."
+    type: talk
+    note: 
+
+  - title: The Centre
+    by: Tim Waters
+    location: Outside & Break-out Room
+    time: "12.00"
+    description: "Find the centre! Is there a correlation between the Town centre and the healthy mental state of being centred? Are you fed up with always working on the margins and at the edgy, liminal spaces? Do you wish to look inwards and find a stable centre? Participants on this walk will form into small groups of 3 or 4 based on their personality types - extraverts, intuitives and logicians. Extraverts would be encouraged to ask many people outside where the centre is for them and the walk there. Intuitives are asked to feel where the centre is, possibly finding genii loci or energetic places. Logicians, indoors initially, will use paper maps and computers to find the centre and optionally head out to find what its like."
+    type: walk
+    note: This event starts and ends at the Break-out room
+
+  - title: Short Personal Heritage Walks
+    by: Graeme Murrell
+    location: Outside
+    time: "13.00"
+    description: "This idea is a response both to Phil Smith's appeal at last year's 4th World Congress for inclusive derives which are accessible to those who may find it difficult to take part in the long meanderings characteristic of most flaneur activity,and to the request for activities which subvert the concept of heritage. <br />
+    This will be a short 15 minute derive involving no more than 15 participants. It will follow a zigzag route away from the source followed by a direct return to the source. Each day's derive will begin at a different source. At each point where the derive changes course, a participant will be asked to share something short (a historical or architectural reference, random thought, sweets, personal reminiscence or something else in response to the space we find ourselves in). <br />
+    The heritage exposed will therefore be shared and directionless, an overlapping narrative determined by the personal experiences and desires of the participants. Unlike a guided walk the narrative is most likely to be fractured and unexpected, and is unlikely to address any particular theme unless the participants sculpt one during their brief period together."
+    type: Walk
+    note: Tickets details coming soon. Limited to 15 people for each walk
+
+  - title: "Workers' Lunchtime"
+    by: Rob Kilner
+    location: Outside
+    time: "13.00"
+    description: "Explore the spatial and temporal limits of a lunchtime through a crowd‐sourced tour of Huddersfield Market. Following our noses we will create a spontaneous smorgasbord of vernacular Huddersfield gastronomy and then sit to share and destroy it with our teeth and taste buds."
+    type: Walk/Eat
+    note: Tickets details coming soon. Limited to 6 people.
+
+  - title: "Dérive through the archives"
+    by: Dave Smith
+    location: Break-out Room
+    time: "13.30"
+    description: "Join Dave Smith on an adventure through the Heritage Quay archives. What stories, ideas and connections exist between seemingly disparate objects and how can we trace them? In this workshop, help create new narratives and relationships across time and space, exposing the gaps between conventional historiography and the wider world. This is archival research meets fever dream and will let you as much about yourselves as historical fact. No prior knowledge actively encouraged."
+    type: Workshop
+    note: This event also occurs in the morning
+
+  - title: Mishtory Tour
+    by: Sonia Overall
+    location: Outside
+    time: "14:00"
+    description: "A dérive that pauses to take in the secret stories of sites whose pasts remain unwritten. Why is this aspect of urban heritage so uncelebrated? Because we have yet to make it up... Part counter‐tourism, part psychogeography game, participants on this mishtory tour will reimagine buildings and plots and the events that may have played out there. What fateful incident occurred on the site of that betting shop? Who is the mysterious figure that haunts the bins behind the pizza place? And what terrible truth connects the destinations encountered on this walk? Open to all creative thinkers: ignorance of local history knowledge will be an advantage."
+    type: Walk
+    note: Walk repeated the following day. Tickets details coming soon. Limited to 15 people on each walk.
+
+  - title: "Kick It Wicked: Graffiti as cultural history and terror in Philadelphia" 
+    by: Tyson Mitman
+    location: Auditorium 
+    time: "14:00"
+    description: "In the global graffiti era, where images are shared instantaneously, places that can keep their specific styles are a rarity. These places hold tightly to their stylistic traditions and imbue them with a great deal of the subculture’s local history, collective memory, and culture. New York City claims the Broadway elegant handstyle as its own. Sao Paulo, has a unique graffiti style called pixação. And Philadelphia has the wicked. Philadelphia writers say that there is no more original, important, esoteric or Philadelphia-specific graffiti style than Philly wickeds. Wickeds are very complex tags that often said to look like “scribble scrabble” to the uninitiated. But for those who can decipher them they are a form of cultural terroir. They are combinations of the elements of style that previous generations of writers have worked to create and they represent a dedication to style and craft that is found nowhere else in the graffiti world. This talk will help to demystify these tags, and explain their history and their cultural value and development. It will also explain why graffiti writers, who are enamoured with the idea of “fame” and recognition, dedicate so much time and effort into learning a style that is often illegible and indiscernible to the majority of the population. The talk will conclude with a short walk along the Huddersfield Canal to observe local graffiti."
+    type: Talk
+    note: There is an accompanying walk that follows this talk - ticket details coming soon.
+
+  - title: "Kick It Wicked Walk"
+    by: Tyson Mitman
+    location: Outside
+    time: "14:30"
+    description: "Walk accompanying the preceeding talk. A short walk along the Huddersfield Canal to observe local graffiti."
+    type: Walk
+    note: 
+
+  - title: "Total Absence of Recall: Arnie, the Hapsburgs & Social Amnesia in Graz, Austria"
+    by: Andrea Capstick
+    location: Auditorium
+    time: "14.30"
+    description: "This talk contrasts an ‘official’ guided tour of Graz, Austria in April 2017 with an informal derive along the banks of its river, the Mur, the same day. The former, an orthodox history of the city - the birthplace of Arnold Schwarzenegger and traditional stamping ground of the Habsburg monarchs – had been subjected to a typical form of narrative smoothing which elides less comfortable truths. The latter took in the remains of the former POW-turned-death camp Graz-Liebenau; a children’s playground in an area populated by economic migrants and asylum seekers which now occupies the same site; the Puchsteg bridge, built by forced labour in 1942, and a current protest camp against a proposed hydro-electric dam. The presentation will consist of photographs, associated musings and ramblings, and the occasional random fact."
+    type: Talk
+    note:
+
+  - title: Chasing The Whale
+    by: Gopal Dutta
+    location: Break-out Room
+    time: "15:00"
+    description: "“Whale” is a graffiti artist active in Manchester. I do not know the artist. I have seen his/her/their work on my walk to work. The graffiti is a simple “tag”, in the shape of a whale, which varies greatly in size, colour and design. See <a href='https://www.instagram.com/7urn7up/'>examples of 'Whale' </a> <br /> I will present a slideshow of different sightings of “Whale”, with a map indicating locations. I will show whales which are now “extinct” – painted over by other graffiti artists or Construction / development officials. The presentation will explore:  “Tagging” and the prolific nature of “Whale” across a specific area in Manchester. The anthromorphic and elastic nature of Whale as differentiating aspects with regard to other graffiti. Graffiti as an active questioning, an alternative means of orientation. It affords a new imagination of the City. Graffiti as 'political' / 'protest' etc. I'll present other examples of graffiti and street art in Manchester, to show the range and where whale fits, as I see it. I'll draw on some literature for this part of the talk. “Whale” in relation to the novel Moby-Dick. Upper Chorlton Road as the Pacific Ocean. Whale’s possible extinction? Myself as a topsy-turvy Ahab? <br /> 
+    There will also be a couple of activities: Participants will be encouraged to draw their own whales using a range of different pens and mark-making instruments, on a range of different surfaces (paper / card / glass / metal) Participants will be invited to share their own stories about memorable graffiti from their own towns and cities."
+    type: Workshop
+    note:
+
+  - title: Back on the map or a clean sweep? An EU migrant trailing enemy aliens in Yorkshire during the centenary years
+    by: Claudia Sternberg
+    location: Auditorium
+    time: "15:30"
+    description: "In this illustrated talk, I introduce and provide the rationale for a heritage trail to be launched on location in Lofthouse, West Yorkshire, during the 2017 Heritage Open Days. The trail has a World War One theme: it starts at the commemorative patch outside Outwood Memorial Hall, straddles along the site of a former internment camp for German and Austrian civilians and terminates at Rothwell Cemetery. <br />
+    The trail makes reference to people, places and events from the first two decades of the 20th century. Additionally, however, I chart my own mappings and counter-mappings which connect past and present, national war memory and post-Referendum sensibilities. Inspiration comes from historiography, walks and encounters as well as psychogeographical concepts and Shaun Levin’s writing maps. In my reflection on vanished sites and perceived presences, I also comment on ‘the camp’, this transient non-place that always complicates palimpsestic narratives."
+    type: Talk
+    note: 
+
+  - title: Superstore Carparks
+    by: Gareth Rees
+    location: Outside
+    time: "16:00"
+    description: "Chain store car parks dominate our urban areas. Many assume that they are ‘non-places’, but for two years I’ve been walking around car parks and never found one the same. History, culture and topography leach into the car park. There’s public art, as well as unofficial public art (graffiti, posters, stickers). Car parks are used for unofficial activities, skateboarding, car stunts, drug dealing, dogging. They are also hotspots for crime, violence, mugging and sexual deviancy. Despite being heavily monitored private areas they are a blind spot in which activities go unnoticed.  <br />
+    My walk will take people through two car parks, looking for unusual features, illicit human activity, strange markings, hints of history and topography. I’ll begin with a presentation about my ideas regarding car parks, and a reading of one of my car park investigations, so that attendees can get an idea of what they need to be looking for and thinking about. At the end of the walk we can share notes and discuss what we’ve seen and felt. This is a transgressive activity because car parks are for store patrons only, and not for leisure walks, loitering or psychogeographic tours. We’re there without permission!"
+    type: walk
+    note: This walk is repeated the following day.  Tickets details coming soon. Limited to 20 people on each walk.
+
+  
+  - title: A Guided Tour of the Pocket Museum of Displacements
+    by: Simon Bradley
+    location: Outside
+    time: "16:00"
+    description: "An intervention that takes place within another walk, or whilst walking between two events. The intervention will occur suddenly and without prior introduction, as an interruption of the activity in progress. Simon will introduce the museum and tell the tale of each piece as he moves it from the pocket container onto the selected site. At the end of the performance, the pieces are placed back in the pocket museum and the event/walk will continue without further ado."
+    type: Performance
+    note: Scheduled to occur during Gareth Rees's Walk at the same time.
+
+
+  - title: "I'm the City of Other Who Are The City - a participatory urban pilgrimage"
+    by: Elia Rita
+    location: Outside
+    time: "16:00"
+    description: "An urban pilgrimage will be performed in Huddersfield as an act of worship to the urban landscape and its inhabitants, turning it into a sacred site for a short period of time. The simple act of walking is chosen for its ability to be a non-violent method of reclamation and activation of the public space. Space that conforms our individual and shared identities, proved to be essential for democracy. Space, therefore, to preserve and question. <br />
+    The action consists of a series of repeated movements that will be done in silence, as it requires a heightened consciousness of the space and circumstances around oneself. These will be taught to the audience during the introduction. <br />
+    Eastern spiritual practices have informed this performance; a foreign cultural heritage has been studied with the acknowledgment that a form of appropriation is likely to be playing part in this work. Its original spiritual purposes are broadened to become aesthetic and political, but if it enters the art market, this intangible heritage will be inevitably commodified. As a result, its message will be shared with a wider audience, bringing awareness of the loss of public space and the accelerated pace of living that individualizes our community decisions, but can also mute that message.<br />
+    TO PARTICIPATE IN THIS EVENT you are encouraged to bring along:<br />
+    White pants and t-shirt/ sweater. <br />
+    3 pairs of white socks per person<br />
+    Small notebook and pen "
+    type: Participative Performance
+    note: 
+
+  - title: Fragmens For A City In Ruins
+    by: Sara Rees
+    location: Auditorium
+    time: "16:30"
+    description: "Set in contemporary Athens, Fragments For A City In Ruins is an essay film composed of photographic images and narrated fragments of text written by W.G. Sebald, Walter Benjamin, and Italo Calvino. Exploring themes such as memory, history, civilization and destruction, the work of these writers is profoundly informed by their experiences of fascism, Nazism and the Second World War. The film re-imagines their writing within the current geopolitical context of Europe, tracing through the city of Athens the entwined histories of empire and ruins.<br />
+    Using a Sebaldian juxtaposition of photographs and text, the film seeks to generate new and unexpected connections and resonances; between the past and the present, between colliding narratives and histories. As in Sebald’s work, the film’s narrator is a peripatetic wanderer, a figure who, in the context of the refugee crisis, evokes one of the most pressing issue of our current times. Weaving together textual fragments, the film seeks to challenge the monolith of hegemonic historical narrative, proposing instead a poly-focal and multi-vocal perspective of memory and history.<br />
+    The presentation will include a screening of the film followed by a lecture exploring the work's political and conceptual concerns.   "
+    type: Film / Talk
+    note:
+
+  - title: Most Difficult Thing Ever
+    by: Kevin Boniface, Steven Beever, & Marc Layton-Bennett
+    location: Auditorium
+    time: "18:00"
+    description: "Artists/musicians Steven Beever, Marc Layton-Bennett, and Kevin Boniface will help you to make a bit less sense of Huddersfield through its frost damaged backyard buddhas, its bag-for-lifes, its salmon and potato dog food, its polythene trees, its Susans and its Geoffs, its Pot Noodle Portakabins, its mid-winter flip-flops, its couch grass window-boxes, its gin and slim on noughties decking, its talk of chimineas and quad bikes, its heated discussions about lorne sausage, its swanee-whistling starlings and its ketchup stained promotional air-dancers.<br />
+    A Huddersfield experience realised in film, soundscape, music, and talking out loud."
+    type: Music / Talk / Film
+    note: 
+
+
+
+
+
 sunday-events:
   - title: a title
     by: a person
@@ -119,7 +277,7 @@ bios:
     As co-founder of Sheffield Hallam Media Arts Walking Research Group, my project is KNITWALKS. I knit as I walk, and the knitting becomes a map. I worked as a film editor for ten years, before directing music videos with London's INDEPENDENT agency. My promo for IMONSTER'S Daydream in Blue was nominated for Q Award's Video of the Year. I have directed many short films, KNITTING A LOVE SONG being nominated for a BAFTA. I was selected as one of Screen International's Stars of Tomorrow and have written three feature films."
 
   - name: Morag Rose
-    description: "I am based in the Department of Urban Studies and Planning at The University of Sheffield. My research focuses on gender, public space and pedestrian methodologies. I am currently conducting walking interviews with women who live, work or study in Manchester, exploring how they think, feel and experience the city.  The pace, direction and subject of the interviews are set by the participants. My definition of walking includes sticks, wheels and other mobility aids and all women over 18 are welcome. There will also be some group walks using creative methods later in the year. This research has been approved by the ethics committee at The University of Sheffield.  If you would like more information or are interested in participating please email <a href='mailto:mltrose1@sheffield.ac.uk'>mltrose1@sheffield.ac.uk</a>"
+    description: "Morag Rose has developed a unique artistic-activist-academic praxis. She co-founded The LRM (Loiterers Resistance Movement) a psychogeographical collective based in Manchester, UK. Their manifesto says they believe 'our city is wonderful and made for more than shopping. The streets belong to everyone and we want to reclaim them for play and revolutionary fun.' In 2016 The LRM celebrated their tenth birthday with a 3 month extravaganza at Peoples History Museum which included work from over 50 international artists. Morag’s PhD research focuses on psychogeographies, gender and public space and her mission has always been to create a psychogeography that is accessible, diverse and critically engaging. Has it all been a waste of time and space or can the drift lead us towards spatial and social justice?"
 
   - name: Ursula Troche
     description: "My studies include Intercultural Therapy at Goldsmith’s College, London. Since then I have been giving papers at conferences and most of my work, both theoretical and practical, is broadly based on intercultural and therapeutic themes. I write and perform poetry and give workshops, many of them therapeutic writing workshops, some of them in daycentres. Performances include the Human Rights Festival and the Colour of London Festival; Poetry collections include ‘Embraceable – Notes from Different Places called Home’. I am also on the Introductory Course of the Philadelphia Association for Psychoanalytic Psychotherapy."
@@ -206,7 +364,7 @@ bios:
     description: 'Phil Wood is the Urban Therapist, an intercultural path-beater scavenging the discarded edgelands of our settlements and memories; confronting us with our hubristic follies and rekindling our capacity for compassion and community. He works and walks all over the world but has never really left Huddersfield. <br /> Web: <a href="http://philwood.eu/">http://philwood.eu/</a> <br />Blog: <a href="http://subversiveurbanism.tumblr.com/">http://subversiveurbanism.tumblr.com</a> <br /> <a href="https://twitter.com/PhilWood11">@PhilWood11 </a> '
 
   - name: David Smith
-    description: David the Participation and Engagement Officer at Heritage Quay. Dave spends his days dreaming up ideas for strange and wonderful experiences at Heritage Quay and he'll be the one running round with a clipboard and risk assessment.
+    description: Dave is the Public Engagement Officer at Heritage Quay, the archive of the University of Huddersfield. He spends most days drifting in the collections, mostly not for an invited audience. He also spends a lot of time with spreadsheets and feedback forms. And biscuits.
     image: david-smith.jpg
 
 
