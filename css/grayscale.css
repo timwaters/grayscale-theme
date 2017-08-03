@@ -422,6 +422,11 @@ strong { font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;}
 
 .event-title {
   font-size: 110%;
+  letter-spacing: 1px;
+}
+
+.event-who{
+    font-weight: 400;
 }
 .note { 
 margin-top: -25px;
@@ -493,3 +498,9 @@ display: block;
   margin-bottom: 25px;
 }
 
+h4.venue {
+    text-transform: none;
+}
+span.venuelabel {
+    font-weight: 500;
+}
