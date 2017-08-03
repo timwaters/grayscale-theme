@@ -268,7 +268,7 @@ a:focus {
     width: 100%;
  
     color: #fff;
-    background: url(../img/uni-marking-bg-filtered.jpg) no-repeat center center scroll;
+    background: url(../img/uni-marking-bg-filtered2.jpg) no-repeat center center scroll;
     background-color: #000000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -281,6 +281,27 @@ a:focus {
  
     color: #fff;
     background: url(../img/chombert-bg.jpg) no-repeat center center scroll;
+    background-color: #000000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+.news-section {
+    width: 100%;
+    background: url(../img/floor.jpg) no-repeat center center scroll;
+    background-color: #000000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.contact-section {
+    width: 100%;
+    background: url(../img/green.jpg) no-repeat center center scroll;
     background-color: #000000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
