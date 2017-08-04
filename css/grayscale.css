@@ -480,12 +480,18 @@ padding-right: 4px;
 #newsletter .dark .button.stroke {
   border: 5px solid white;
    box-shadow: none;
-  color: white;
+  color: black;
   border-radius: 0px;
   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
   font-size: 20px;
   font-weight: 700;
-height: 50px;
+  height: 50px;
+}
+
+#newsletter .dark .button.stroke:hover {
+
+  color: white;
+
 }
 
 #newsletter .col6 {
