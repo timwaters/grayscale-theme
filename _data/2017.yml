@@ -92,9 +92,9 @@ saturday-events:
     by: Dave Smith
     location: Break-Out Room
     time: "11.00"
-    description: "Join Dave Smith on an adventure through the Heritage Quay archives. What stories, ideas and connections exist between seemingly disparate objects and how can we trace them? In this workshop, help create new narratives and relationships across time and space, exposing the gaps between conventional historiography and the wider world. This is archival research meets fever dream and will let you as much about yourselves as historical fact. No prior knowledge actively encouraged."
+    description: "Join Dave Smith on an adventure through the Heritage Quay archives. What stories, ideas and connections exist between seemingly disparate objects and how can we trace them? In this workshop, help create new narratives and relationships across time and space, exposing the gaps between conventional historiography and the wider world. This is archival research meets fever dream and will let you learn as much about yourselves as historical fact. No prior knowledge actively encouraged."
     type: Workshop
-    note: This is repeated in the afternoon
+    note: 
 
   - title: Introduction to Derive Day
     by: West Yorkshire Traipsers
@@ -121,6 +121,16 @@ saturday-events:
     type: walk
     note: This event starts and ends at the Break-out room
 
+  - title: "A Dérive around Huddersfield"
+    by: Alec Shepley & Paul Jones
+    location: Outside & Break-out Room
+    time: "13.00"
+    description: "UK artists Shepley and Jones will take as their starting point Michael Philipson’s provocation to uncover those spaces that culture has not reached and to take Philipson further, to excavate those spaces or gaps that culture has somehow forgotten or that progress has left behind. Through the everyday practice walking, Shepley will sweep-trace the ‘ley-lines’ left by architects and urban planners, and Jones will conduct data-collection experiments. <br />
+    Through tracing and sweeping they will contour urban features, cracks and gaps, delineations and boundaries, exploring differences in the infrastructure precipitated by utopian and dystopian templates, and in-so-doing expose something between art and life - even if only momentarily. Data sweep drawings are often by-products of this process and the artists would hope to produce some for the Congress as a record of their dérives. <br />
+    They propose starting from Heritage Quay, with a group of up to 20 to join, and then proceed – drifting through a district of the city. The walk will last one hour (within a two-hour slot) allowing time for introductions, the walk, and then discussion."
+    type: Walk / Eat
+    note: Tickets details coming soon.  Limited to 20 people.
+
   - title: Short Personal Heritage Walks
     by: Graeme Murrell
     location: Outside
@@ -138,14 +148,6 @@ saturday-events:
     description: "Explore the spatial and temporal limits of a lunchtime through a crowd‐sourced tour of Huddersfield Market. Following our noses we will create a spontaneous smorgasbord of vernacular Huddersfield gastronomy and then sit to share and destroy it with our teeth and taste buds."
     type: Walk / Eat
     note: Tickets details coming soon. Limited to 6 people.
-
-  - title: "Dérive through the archives"
-    by: Dave Smith
-    location: Break-out Room
-    time: "13.30"
-    description: "Join Dave Smith on an adventure through the Heritage Quay archives. What stories, ideas and connections exist between seemingly disparate objects and how can we trace them? In this workshop, help create new narratives and relationships across time and space, exposing the gaps between conventional historiography and the wider world. This is archival research meets fever dream and will let you as much about yourselves as historical fact. No prior knowledge actively encouraged."
-    type: Workshop
-    note: This event also occurs in the morning
 
   - title: Mishtory Tour
     by: Sonia Overall
@@ -480,6 +482,12 @@ bios:
   - name: Kevin Boniface
     description: "Kevin Boniface is an artist who lives and bases his practice in Huddersfield, West Yorkshire. His work is an ongoing journal realised primarily through text, film and photography. His research and methodology evolve from the continuous field recording of his immediate surroundings to create a social survey of people and things in the landscape: a written record of dialogue and dialect, a catalogue of flora and fauna, the tracking of social mobility, the slow migration up Market Street of a discarded shoe...The online incarnation of Kevin’s journal, <a href='http://www.themostdifficultthingever.com'>The Most Difficult Thing Ever</a> was awarded Best Writing at the 2012 Blog North Awards.<br />
     For 4wcop, Kevin will present The Most Difficult Thing Ever in a live collaboration with musicians <strong>Beeves</strong> and <strong>Marc Layton-Bennett</strong>. Beeves and ML-B are both accomplished writers, performers and producers who regularly work in live, studio and educational settings. ML-B has been the drummer with the band Jah Wobble & The Invaders Of The Heart for the past 8 years. He was also involved in the 2011 Psychic Life album which Wobble described as being “inspired by disco, post-punk and psychogeography”. Beeves’ ambient work makes immersive use of everyday soundscapes, manipulating and complimenting the sounds that surround him. In their joint project, <a href='https://goo.gl/mDdgcU'>Sonic Vandalism</a>, ML-B and Beeves scour the streets of Huddersfield for objects and street furniture to re-purpose as musical instruments. <a href='http://kevinboniface.co.uk'>KevinBoniface.co.uk</a> "
+
+  - name: Alec Shepley
+    description: "Alec is Head of the School of Creative Arts and Professor of Contemporary Art Practice at Wrexham Glyndŵr University. Prior to his appointment at Wrexham Glyndŵr University in March 2016 he was Head of Lincoln School of Art & Design at the University of Lincoln. Alec’s individual and collaborative research has attracted funding from the Arts & Humanities Research Council, the British Council, the Arts Council of England and the Arts Council of Wales and his work has been exhibited widely, both nationally and internationally, with examples held in a number of public and private collections in north America, Europe and Asia. He has been an active participant in national and international artistic research seminars and conferences for several years and his individual and socio-collaborative art research has attracted funding from the Arts & Humanities Research Council, the British Council, the Arts Council of England and the Arts Council of Wales. Through extending the language of painting and sculpture his works become more a means of encounter rather than an end in themselves, providing a document of art as social engagement. Through intertwining reality and fiction,he produces improvised sites that are dialectically linked replies to one another within the wider field of action."
+  
+  - name: Paul Jones
+    description: "Paul leads on performance, video, photography, digital media, sound, installation and socially engaged art practices. Paul’s work is based on geography as an epistemological structure visualised through performance, video, photography, sound and drawing. From balancing acts and attempted border leaps, antagonistic border greeting performances to flag waving, Paul’s practice is concerned with the political, cultural and social systems that govern territory. He works collaboratively with artist Guy Mayman as part of DATAMOSH, developing hallucinatory visuals and ritualistic performances that reanimate a large archive of visual material. As a process of exploration and data mining the work responds to an excess of visual and audio material through deconstruction and re-contextualisation. Paul has exhibited widely in the UK and internationally including g39, Cardiff; Motorcade Flash Parade, Bristol; AC Institute, New York; A.T.P Gallery, London and MOTI, Breda. Contributions to conferences and publications include ‘Croeso I Gymru /Welcome to England – Performing the Welsh/English Border’, Art and Geopolitical Borders conference, MMU; ‘Cerbyd as Project’, Numbers Publication, ‘Small Town Kids’, Dazed and Confused magazine."
 
   - name: Jason Kerry
     description: 

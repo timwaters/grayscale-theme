@@ -449,6 +449,11 @@ strong { font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;}
 .event-who{
     font-weight: 400;
 }
+
+li.event-item {
+    padding-bottom: 25px;
+}
+
 .note { 
 margin-top: -25px;
 
