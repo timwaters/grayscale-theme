@@ -94,7 +94,7 @@ saturday-events:
     time: "11.00"
     description: "Join Dave Smith on an adventure through the Heritage Quay archives. What stories, ideas and connections exist between seemingly disparate objects and how can we trace them? In this workshop, help create new narratives and relationships across time and space, exposing the gaps between conventional historiography and the wider world. This is archival research meets fever dream and will let you learn as much about yourselves as historical fact. No prior knowledge actively encouraged."
     type: Workshop
-    note: 
+    note: This is repeated in the afternoon
 
   - title: Introduction to Derive Day
     by: West Yorkshire Traipsers
@@ -121,16 +121,6 @@ saturday-events:
     type: walk
     note: This event starts and ends at the Break-out room
 
-  - title: "A Dérive around Huddersfield"
-    by: Alec Shepley & Paul Jones
-    location: Outside & Break-out Room
-    time: "13.00"
-    description: "UK artists Shepley and Jones will take as their starting point Michael Philipson’s provocation to uncover those spaces that culture has not reached and to take Philipson further, to excavate those spaces or gaps that culture has somehow forgotten or that progress has left behind. Through the everyday practice walking, Shepley will sweep-trace the ‘ley-lines’ left by architects and urban planners, and Jones will conduct data-collection experiments. <br />
-    Through tracing and sweeping they will contour urban features, cracks and gaps, delineations and boundaries, exploring differences in the infrastructure precipitated by utopian and dystopian templates, and in-so-doing expose something between art and life - even if only momentarily. Data sweep drawings are often by-products of this process and the artists would hope to produce some for the Congress as a record of their dérives. <br />
-    They propose starting from Heritage Quay, with a group of up to 20 to join, and then proceed – drifting through a district of the city. The walk will last one hour (within a two-hour slot) allowing time for introductions, the walk, and then discussion."
-    type: Walk / Eat
-    note: Tickets details coming soon.  Limited to 20 people.
-
   - title: Short Personal Heritage Walks
     by: Graeme Murrell
     location: Outside
@@ -148,6 +138,14 @@ saturday-events:
     description: "Explore the spatial and temporal limits of a lunchtime through a crowd‐sourced tour of Huddersfield Market. Following our noses we will create a spontaneous smorgasbord of vernacular Huddersfield gastronomy and then sit to share and destroy it with our teeth and taste buds."
     type: Walk / Eat
     note: Tickets details coming soon. Limited to 6 people.
+
+  - title: "Dérive through the archives"
+    by: Dave Smith
+    location: Break-Out Room
+    time: "13.30"
+    description: "Join Dave Smith on an adventure through the Heritage Quay archives. What stories, ideas and connections exist between seemingly disparate objects and how can we trace them? In this workshop, help create new narratives and relationships across time and space, exposing the gaps between conventional historiography and the wider world. This is archival research meets fever dream and will let you learn as much about yourselves as historical fact. No prior knowledge actively encouraged."
+    type: Workshop
+    note: This is repeated in the morning
 
   - title: Mishtory Tour
     by: Sonia Overall
@@ -327,6 +325,17 @@ sunday-events:
     description: "A derive investigating the forgotten and neglected aspects of urban space. Specifically, we will use the themes of menstruation, as a lens to explore the city: the city as a metaphor for the body. How does the urban landscape reflect the themes? Menstruation is hidden and shameful within western capitalism. It has strong negative connotations. By exploring menstruation in the city we can RESIST capitalist tactics. We can create radical social change with de-tournament: we can sabotage and re-appropriate signs through menstrual activism, or menarchy! On the walk, we will take photographs, log our positions on a map and record words in response to the spaces we experience. During the indoor session, we will use these representations to re-create the city, and our walk, into a piece of art."
     type: Talk
     note: "This event is preceeded by a walk at 14:30"
+
+
+  - title: "A Dérive around Huddersfield"
+    by: Alec Shepley & Paul Jones
+    location: Outside & Break-out Room
+    time: "15:30"
+    description: "UK artists Shepley and Jones will take as their starting point Michael Philipson’s provocation to uncover those spaces that culture has not reached and to take Philipson further, to excavate those spaces or gaps that culture has somehow forgotten or that progress has left behind. Through the everyday practice walking, Shepley will sweep-trace the ‘ley-lines’ left by architects and urban planners, and Jones will conduct data-collection experiments. <br />
+    Through tracing and sweeping they will contour urban features, cracks and gaps, delineations and boundaries, exploring differences in the infrastructure precipitated by utopian and dystopian templates, and in-so-doing expose something between art and life - even if only momentarily. Data sweep drawings are often by-products of this process and the artists would hope to produce some for the Congress as a record of their dérives. <br />
+    They propose starting from S2R Create Space, with a group of up to 20 to join, and then proceed – drifting through a district of the city. The walk will last one hour (within a two-hour slot) allowing time for introductions, the walk, and then discussion."
+    type: Walk / Discussion
+    note: Tickets details coming soon.  Limited to 20 people.
 
   - title: Nightwalking
     by: Lloyd Spenser
