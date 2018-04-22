@@ -1,0 +1,105 @@
+<!-- Events Section -->
+<section id="2017" class="container content-section text-left">
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-2">
+          <h2>2017 Fourth World Congress of Psychogeography 8,9,10 Sept</h2>
+          <h3> <i class="fa fa-video-camera stream" aria-hidden="true"> NEW </i>Video Recordings from the 2017 Congress</h3>
+          <p> Indoor talks in the main auditorium were streamed and recorded live on Friday and Saturday, and you can watch them here: <br />
+            <a href="https://videohud.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=35b7f952-f43e-4f52-a777-28524e5b3e9a">Friday Video Recordings</a> <br />
+            <a href="https://videohud.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=33167394-753d-4497-acdf-559963c81513">Saturday Video Recordings</a>
+          </p>
+          <h3> RTE Inside Culture about the 2017 Congress </h3>
+          <img src="/img/rte-interview.jpg" width="240px" />
+          <p>
+           
+            The Irish national radio station’s RTE 1  Inside Culture show featured the World Congress, interviewing a number of participants and covering a wide range of things, amongst a rather good show about Psychogeography in general.  If you were at the Congress you might have met and chatted with Regan. Sonia Overall, Morag Rose, Gareth Rees, Kevin Boniface and Barbara Lounder were featured,  as well as the voices of Graeme Murrell and Dave Smith are heard.
+            <br />
+            <a href="https://www.rte.ie/radio1/inside-culture/programmes/2017/1120/921599-inside-culture-monday-20-november-2017/?clipid=102662288#102662288">RTE Inside Culture</a> 
+           
+            <br />
+            <a href="https://soundcloud.com/insideculture/s2-28">RTE Inside Culture on Sound Cloud</a>
+          </p>
+<hr />
+          <p><a href="/pdf/4wcop_draft_programme.pdf">Programme for 8,9,10 September 2017 (PDF)</a></p>
+           <!--<p><a href="/pdf/4wcop_events_and_speakers.pdf">Event Descriptions and Speaker Biographies (PDF)</a></p> -->
+    
+          <p class="event-link">
+            <a href="#friday2017">Friday 8 September 2017</a><br />
+            <a href="#saturday2017">Saturday 9 September 2017</a> <br />
+            <a href="#sunday2017">Sunday 10 September 2017</a><br />
+          </p>
+          <h3 id="friday2017">Friday 8th September 2017</h3>
+          <h4 class="venue"><span class="venuelabel">Venue:</span> Heritage Quay, University of Huddersfield</h4>
+          <h4 class="stream"><i class="fa fa-video-camera stream" aria-hidden="true"> </i> <a href="https://videohud.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=35b7f952-f43e-4f52-a777-28524e5b3e9a">Friday Video Recordings</a></h4>
+          <ul class="list-unstyled">
+          {% for event in site.data.2017.friday-events %}
+            <li class="event-item">
+              <p>
+              <span class="event-highlight event-type">{{ event.type}}:</span>  <strong class="event-title">{{ event.title }}</strong> <br />
+              <span class="event-highlight">{{ event.time }}</span>               
+              {{ event.location }} <br />
+              <span class="event-highlight">  By:</span><strong class="event-who">  {{ event.by }}</strong> <br />
+              {{ event.description }} <br />
+              </p>
+              {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
+          
+            </li>
+          {% endfor %}    
+          </ul>
+        
+          <h3  id="saturday2017">Saturday 9th September 2017</h3>
+          <h4 class="venue"><span class="venuelabel">Venue:</span> Heritage Quay, University of Huddersfield</h4>
+          <h4 class="stream"><i class="fa fa-video-camera stream" aria-hidden="true"> </i> <a href="https://videohud.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=33167394-753d-4497-acdf-559963c81513">Saturday Video Recordings</a></h4>
+          <ul class="list-unstyled">
+          {% for event in site.data.2017.saturday-events %}
+            <li class="event-item">
+              <p>
+              <span class="event-highlight event-type">{{ event.type}}:</span>  <strong>{{ event.title }}</strong> <br />
+              <span class="event-highlight">{{ event.time }}</span>               
+              {{ event.location }} <br />
+              <span class="event-highlight">  By:</span>  {{ event.by }} <br />
+              {{ event.description }} <br />
+    
+              {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
+            </p>
+            </li>
+          {% endfor %}    
+        </ul>
+        
+        <h3  id="sunday2017">Sunday 10th September 2017</h3>
+        <h4 class="venue"><span class="venuelabel">Venue:</span> S2R Creative Space, 5-7 Brook St, Huddersfield HD1 1EB</h4>
+        <ul class="list-unstyled">
+        {% for event in site.data.2017.sunday-events %}
+          <li class="event-item">
+            <p>
+            <span class="event-highlight event-type">{{ event.type}}:</span>  <strong>{{ event.title }}</strong> <br />
+            <span class="event-highlight">{{ event.time }}</span>               
+            {{ event.location }} <br />
+            <span class="event-highlight">  By:</span>  {{ event.by }} <br />
+            {{ event.description }} <br />
+    
+            {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
+          </p>
+          </li>
+        {% endfor %}    
+        </ul>
+          </div>
+        </div>
+</section>
+
+
+<section id="who" class="container content-section text-left who-section">
+   
+        <div class="col-lg-8 col-lg-offset-3">
+            <h2>Who Took Part in 2017?</h2>
+            {% for bio in site.data.2017.bios %}
+            <div class="row bio-row">
+                <div class="col-sm-8 clearfix">
+                    <strong>{{bio.name}}</strong><br /> {{bio.description}}
+                </div>
+            </div>
+            {% endfor %}
+    
+ 
+    </div>
+</section>
