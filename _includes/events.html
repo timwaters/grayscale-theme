@@ -8,15 +8,16 @@
      
 
       <p class="event-link">
-        <a href="#friday">Friday 7 September 2018</a><br />
-        <a href="#saturday">Saturday 8 September 2018</a> <br />
+        <a href="#friday">Friday 7 September 2018</a> (at Heritage Quay) <br />
+        <a href="#saturday">Saturday 8 September 2018</a> (along the Colne Valley) <br />
       </p>
       <h3 id="friday">Friday 7th September 2018</h3>
+      <h4 class="venue"><span class="venuelabel">Venue:</span> Heritage Quay, University of Huddersfield</h4>
       <p>
-        Day 1 is a mainly sedentary and verbal experience centred upon Heritage Quay, but interspersed with occasional forays into the surrounding townscape.
+        Friday is a mainly sedentary and verbal experience centred upon Heritage Quay, but interspersed with occasional forays into the surrounding townscape.
       </p>
       <p>All events are free of charge. However, if you would like to make a donation you will be most welcome. Look out for the Blue Buckets.</p>
-      <h4 class="venue"><span class="venuelabel">Venue:</span> Heritage Quay, University of Huddersfield</h4>
+     
       <!--
         <h4 class="stream"><i class="fa fa-video-camera stream" aria-hidden="true"> </i> <a href="https://videohud.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=35b7f952-f43e-4f52-a777-28524e5b3e9a">Friday Video Recordings</a></h4>
       -->
@@ -26,8 +27,11 @@
           <p>
           <span class="event-highlight event-type">{{ event.type}}:</span>  <strong class="event-title">{{ event.title }}</strong> <br />
           <span class="event-highlight">{{ event.time }}</span>               
-          {{ event.location }} <br />
-          <span class="event-highlight">  By:</span><strong class="event-who">  {{ event.by }}</strong> <br />
+          {{ event.location }} 
+          {% if event.by %}
+          <br />
+          <span class="event-highlight">  By:</span><strong class="event-who">  {{ event.by }}</strong> {% endif %}
+          <br />
           {{ event.description }} <br />
           </p>
           {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
@@ -37,11 +41,12 @@
       </ul>
     
       <h3  id="saturday">Saturday 8th September 2018</h3>
+      <h4 class="venue"><span class="venuelabel">Venue:</span> Various locations around Huddersfield and the Colne Valley </h4>
       <p>
-        Day 2 is a mainly mobile experience of walks and rides, interspersed with occasional talks. The general focus of activity will move gradually up the Colne Valley from Huddersfield to Marsden throughout the day. Several walks will start or finish at one of our two gathering points: the Red & Green Club in Milnsbridge and the Civic Hall in Slaithwaite. The day will end in the convivial surroundings of the Riverhead Tap, Marsden.
+       Saturday, day 2, is a mainly mobile experience of walks and rides, interspersed with occasional talks. The general focus of activity will move gradually up the Colne Valley from Huddersfield to Marsden throughout the day. Several walks will start or finish at one of our two gathering points: the Red & Green Club in Milnsbridge and the Civic Hall in Slaithwaite. The day will end in the convivial surroundings of the Riverhead Tap, Marsden.
       </p>
       <p>All events are free of charge. However, if you would like to make a donation you will be most welcome. Look out for the Blue Buckets.</p>
-      <h4 class="venue"><span class="venuelabel">Venue:</span> Various locations around Huddersfield and the Colne Valley </h4>
+      
       <p>
         Dependent upon weather conditions, some of the walks may pass over damp or difficult terrain, so please dress accordingly.
       </p>
@@ -57,7 +62,7 @@
           <span class="event-highlight event-type">{{ event.type}}:</span>  <strong>{{ event.title }}</strong> <br />
           <span class="event-highlight">{{ event.time }}</span>               
           {{ event.location }} <br />
-          <span class="event-highlight">  By:</span>  {{ event.by }} <br />
+          <span class="event-highlight">  By:</span>  <strong class="event-who">  {{ event.by }}</strong> <br />
           {{ event.description }} <br />
 
           {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
