@@ -1,19 +1,11 @@
 friday-events:
-  - title: Opening Ceremony
-    by: Witold van Ratingen
-    location: Outside
-    time: "10.00"
-    description: "Witold - internet-certified Shaman and the sole known member of the Esoteric Order of the Degu - will conduct a sacred opening ceremony to the congress. First, in a traditional Amazonian ritual, local guardian spirits will be invoked to open all requisite psychogeographic energy valves. Subsequently, participants will depart in a festive procession from St. George's Square, Huddersfield's energetic nexus, towards Heritage Quay. All attendants are invited to bring silly clothing, accessories, and/or a (makeshift) musical instrument."
-    type: walk
-    note:  
-
   - title: Welcome Address
     by:  The Congress Organisers
     location: Auditorium
     time: "10.30"
     description: A Welcome to the Fourth World Congress of Psychogeography
     type: talk
-    note: 
+    note: The venue will be open from 10:00 AM 
 
   - title: "Identities"
     by: Alex Bridger, Anna Davidson and Lesley Wood
@@ -49,7 +41,7 @@ The presentation focuses on the potentialities of mapping urban spaces through t
     by:
     location: Inside and Out
     time: "12.15 - 13.30"
-    description: "Lunch can be purchased at the International Kitchen restaurant or the Central Café, both in Student Central, or in the Town Centre. (With the exception of those participating in the Retail Environments session, for which special provision is made)."
+    description: "Lunch can be purchased at the International Kitchen restaurant or the Central Café, both in Student Central, or in the Town Centre. (With the exception of those participating in the Retail Environments session, for which special provision is made).  Also see the <a href='/pdf/Places_to_eat_in_Queensgate_Market.pdf'>list of places to eat in Queensgate Market (PDF)</a>. also in the market you can see the <a href='https://research.hud.ac.uk/art-design/temporarycontemporary/'>Temporary Contemporary Exhibition</a> with the art work of Ryan Durrant (Black Bag)"
     type: "Break"
     note: 
 
