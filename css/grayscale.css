@@ -536,3 +536,9 @@ h4.venue {
 span.venuelabel {
     font-weight: 500;
 }
+.caption {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.row-padded {
+    padding-bottom: 3em;
+}
