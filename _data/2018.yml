@@ -24,6 +24,14 @@ In May 2016 Wood walked solo from Leeds to Newcastle, traversing personal hinter
     type: Forum
     note: Short presentations followed by an open panel discussion
 
+
+  - title: "TBC"
+    by:
+    location: Breakout Space
+    time: "10.45"
+    description: "To be confirmed"
+    type: "Event"
+    note: 
     
   - title: LUNCH
     by:
@@ -129,7 +137,7 @@ A talk about the link between Psychogeography and Flow theory and how this could
     time: "18.30" 
     description: A psychogeographical variation of the familiar boardgame. Anyone may join in.
     type: game
-    note: 
+    note: This is at the same location for the evening social event. Everyone welcome.
 
 
 saturday-events:
@@ -249,6 +257,14 @@ saturday-events:
     description: "Two Ruins use a Classic Citroen CX (the embodiment of an obsolescent utopian gesamtskunstwerk), within which they perform amidst a lattice of red neon tubing arranged within the interior space of the vehicle. They invoke the indeterminacy of rotting places: old lock-ups, dead-end streets, post-industrial voids, gap-sites and scrubland. They want to inaugurate an ambiguous disjuncture through the combination of flesh and technology, the voyeuristic gaze of passers-by and the libidinal conjunction of futures past as they take the viewer on a journey with the body/car as stage set, as material and as sound. A specifically composed electro-acoustic piece will emanate from the vehicle during the performance, adding to the disjuncture and 'out of time' nature of the piece. The intention is to insert dissonant memories into the minds of viewers to initiate questions for which answers are ambiguous and determinant on subjectivity."
     type: performance
     note: "Two Ruins will drift around Marsden at dusk, each in-car performance lasting approximately 12 minutes."
+
+  - title: Closing Social Event 
+    by: Everyone
+    location: Riverhead Brewery Tap, Marsden
+    time: "19.00"
+    description: "Come join everyone to officially close the Congress at the <a href='http://theriverheadmarsden.co.uk/'>Riverhead Brewery Tap</a>, Marsden. We have the upstairs room booked out for us!"
+    type: social
+    note: 
 
 
 bios:
