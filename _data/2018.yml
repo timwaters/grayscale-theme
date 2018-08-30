@@ -250,14 +250,6 @@ saturday-events:
     type: walk
     note: "The walk is limited to 25 people on a first-come first served basis. Please book your <a href='https://www.ticketsource.co.uk/whats-on/marsden/marsden-moor-estate-office/walk-2-walk'>free tickets for 2.Walk here</a> (via TicketSource)"
 
-  - title: Sleering
-    by: "Two Ruins - Jim Colquhoun and Steve Hollingsworth"
-    location: Various locations around Marsden
-    time: "19.30"
-    description: "Two Ruins use a Classic Citroen CX (the embodiment of an obsolescent utopian gesamtskunstwerk), within which they perform amidst a lattice of red neon tubing arranged within the interior space of the vehicle. They invoke the indeterminacy of rotting places: old lock-ups, dead-end streets, post-industrial voids, gap-sites and scrubland. They want to inaugurate an ambiguous disjuncture through the combination of flesh and technology, the voyeuristic gaze of passers-by and the libidinal conjunction of futures past as they take the viewer on a journey with the body/car as stage set, as material and as sound. A specifically composed electro-acoustic piece will emanate from the vehicle during the performance, adding to the disjuncture and 'out of time' nature of the piece. The intention is to insert dissonant memories into the minds of viewers to initiate questions for which answers are ambiguous and determinant on subjectivity."
-    type: performance
-    note: "Two Ruins will drift around Marsden at dusk, each in-car performance lasting approximately 12 minutes."
-
   - title: Closing Social Event 
     by: Everyone
     location: "Riverhead Brewery Tap, Peel St, Marsden (<a href='https://www.openstreetmap.org/?mlat=53.60134&mlon=-1.92745#map=19/53.60134/-1.92745'  target='_blank'  target='_blank'>map</a>)"
@@ -268,9 +260,6 @@ saturday-events:
 
 
 bios:
-
-  - name: Two Ruins - Jim Colquhoun and Steve Hollingsworth
-    description: TWO RUINS is the long-standing collaborative practice of Jim Colquhoun and Steve Hollingsworth, inhabiting a hypothetical space somewhere between sculpture, performance and sound art and it is catalysed from a variety of sources, often beginning with a work of speculative fiction and/or an on-going dialogue and continuous reflection on themes as diverse as the hard question of consciousness, popular cultures and the works of Georges Bataille, Walter Benjamin, Clark Ashton Smith, David Lindsay and Robert Burton amongst many others.
 
   - name: Alex J Bridger
     description: "Psychogeographer and senior lecturer in critical psychology at the University of Huddersfield. Currently writing a book about psychogeography and psychology which is due to be published in 2019. Co-organiser of the 4th World Congress of Psychogeography and the Huddersfield Psychogeographical Network. <a href='https://notanotherpsychogeographyblog.wordpress.com/'>https://notanotherpsychogeographyblog.wordpress.com/</a> "
