@@ -1,0 +1,135 @@
+<!-- Events Section -->
+<section id="2018" class="container content-section text-left">
+  <div class="row">
+      <div class="col-lg-10 col-lg-offset-2">
+        <h2>2018 Fourth World Congress of Psychogeography Sept</h2>
+        <h3>Blog Coverage</h3>
+       
+      </div>
+  </div>
+</section>
+<!-- Events Section -->
+<section id="2018" class="container content-section text-left">
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-0">
+      <h2>2018 Events</h2>
+      
+     <p><a href="/pdf/4wcop_draft_programme_2018.pdf"><img src="/img/2018/programme_thumbnail.png" />  Programme schedule for 7-8 September (PDF)</a></p>
+
+      <p class="event-link">
+        <a href="#friday">Friday 7 September 2018</a> (at Heritage Quay) <br />
+        <a href="#saturday">Saturday 8 September 2018</a> (along the Colne Valley) <br />
+      </p>
+      <h3 id="friday">Friday 7th September 2018</h3>
+      <h4 class="venue"><span class="venuelabel">Venue:</span> Heritage Quay, University of Huddersfield</h4>
+      <p>
+        Friday is a mainly sedentary and verbal experience centred upon Heritage Quay, but interspersed with occasional forays into the surrounding townscape.
+      </p>
+
+      <p>All events are free of charge. However, if you would like to make a donation you will be most welcome. Look out for the Blue Buckets.</p>
+     
+   
+      <ul class="list-unstyled">
+      {% for event in site.data.2018.friday-events %}
+        <li class="event-item">
+          <p>
+          <span class="event-highlight event-type">{{ event.type}}:</span>  <strong class="event-title">{{ event.title }}</strong> <br />
+          <span class="event-highlight">{{ event.time }}</span>               
+          {{ event.location }} 
+          {% if event.by %}
+          <br />
+          <span class="event-highlight">  By:</span><strong class="event-who">  {{ event.by }}</strong> {% endif %}
+          <br />
+          {{ event.description }} <br />
+          </p>
+          {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
+      
+        </li>
+      {% endfor %}    
+      </ul>
+    
+      <h3  id="saturday">Saturday 8th September 2018</h3>
+      <h4 class="venue"><span class="venuelabel">Venue:</span> Various locations around Huddersfield and the Colne Valley </h4>
+      <p>
+       Saturday, day 2, is a mainly mobile experience of walks and rides, interspersed with occasional talks. The general focus of activity will move gradually up the Colne Valley from Huddersfield to Marsden throughout the day. Several walks will start or finish at one of our two gathering points: the Red & Green Club in Milnsbridge and the Civic Hall in Slaithwaite. The day will end in the convivial surroundings of the Riverhead Tap, Marsden.
+      </p>
+      <p>All events are free of charge. However, if you would like to make a donation you will be most welcome. Look out for the Blue Buckets.</p>
+      
+      <p>
+        Dependent upon weather conditions, some of the walks may pass over damp or difficult terrain, so please dress accordingly.
+      </p>
+     <p>Participants are welcome to opt in and out at any point or to join us for the whole experience.</p>
+     <p>There is ample <b>public transport</b> to enable you to reach or depart from particular events.  See the <b>bus</b> timetable here: <a href="https://www.wymetro.com/buses/timetables/185">https://www.wymetro.com/buses/timetables/185</a> or <a href="https://bustimes.org/localities/huddersfield">https://bustimes.org/localities/huddersfield</a>  and the <b>train</b> timetable here: <a href="https://www.northernrailway.co.uk/travel/timetable">https://www.northernrailway.co.uk/travel/timetables </a>
+    </p>
+    <h4>Notable Landmarks</h4>
+    
+    <div class="row row-padded">
+    
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="/img/2018/civic_hall_slaithwaite.jpg"><img src="/img/2018/civic_hall_slaithwaite.jpg" style="width:100%"></a>
+          <div class="caption">
+              <b>Slaithwaite Civic Hall</b>, 15A New Street, Slaithwaite, HD7 5AB (<a href='https://www.openstreetmap.org/?mlat=53.62353&mlon=-1.87837#map=19/53.62353/-1.87837' target='_blank'>map</a>)
+          </div>
+        </div>
+      </div>
+    
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="/img/2018/red_green_club_milnsbridge.jpg"><img src="/img/2018/red_green_club_milnsbridge.jpg" style="width:100%"></a>
+          <div class="caption">
+              <b>Red & Green Club</b>, 42 Bankwell Rd, Milnsbridge, HD3 4LU (<a href='https://www.openstreetmap.org/?mlat=53.63845&mlon=-1.82312#map=18/53.63845/-1.82312'  target='_blank'>map</a>)
+          </div>
+        </div>
+      </div>
+    
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="/img/2018/riverhead_brewery_tap_marsden.jpg"><img src="/img/2018/riverhead_brewery_tap_marsden.jpg" style="width:100%"></a>
+          <div class="caption">
+              <b> Riverhead Brewery Tap</b>, Marsden (<a href='https://www.openstreetmap.org/?mlat=53.60134&mlon=-1.92745#map=19/53.60134/-1.92745'  target='_blank'  target='_blank'>map</a>)
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <h4>Programme</h4>
+
+      <ul class="list-unstyled">
+      {% for event in site.data.2018.saturday-events %}
+        <li class="event-item">
+          <p>
+          <span class="event-highlight event-type">{{ event.type}}:</span>  <strong>{{ event.title }}</strong> <br />
+          <span class="event-highlight">{{ event.time }}</span>               
+          {{ event.location }} <br />
+          <span class="event-highlight">  By:</span>  <strong class="event-who">  {{ event.by }}</strong> <br />
+          {{ event.description }} <br />
+
+          {% if event.note %}<p class="note"> <strong class="event-highlight">Note:</strong> {{ event.note }}</p>{% endif %}
+        </p>
+        </li>
+      {% endfor %}    
+    </ul>
+    
+    
+
+    </div>
+  </div>
+</section>
+
+<section id="who" class="container content-section text-left who-section">
+   
+  <div class="col-lg-8 col-lg-offset-3">
+      <h2>Who Took Part in 2018?</h2>
+      {% for bio in site.data.2018.bios %}
+      <div class="row bio-row">
+          <div class="col-sm-8 clearfix">
+              <strong>{{bio.name}}</strong><br /> {{bio.description}}
+          </div>
+      </div>
+      {% endfor %}
+
+
+</div>
+</section>
