@@ -67,13 +67,13 @@ friday-events:
     by:  Mark Valentine & John Billingsley
     location: Auditorium
     time: "14.00"
-    description: "Talk 1) Mark Valentine: A Country Still All Mystery – Occult Territory in Supernatural Fiction <br />
+    description: "Talk 1) Mark Valentine: <b>A Country Still All Mystery – Occult Territory in Supernatural Fiction </b><br />
       This talk will survey examples of how writers in the ‘occult’ field have depicted ‘sacred’ or ‘sinister’ landscape, and will explore whether this has affinities with the practice of psychogeography.
       <br />
       W G Hoskins’ groundbreaking study The Making of the English Landscape (1955) explored how practical activities (agriculture, industry, etc) have shaped the land. But he was also alert to another sort of relationship, that of the numinous, marked not only by built shrines (churches, chapels) but also at natural places (springs, groves, stones). What has been left alone has a significance as well as what has been worked. 
       <br />
       This sense of ‘occult’ terrain is conveyed in a range of work in the supernatural or weird fiction field. Authors here evoke the uncanny both in remote country and in city streets. Arthur Machen’s ‘art of wandering’ and his alertness to strange experiences in the byways of London are already noted, but there are others whose work also portrays wanderers who encounter the weird: Mary Butts in Dorset and Cornwall; Elizabeth Bowen in the London of the Blitz; Walter de la Mare in several dream-like enclaves. The talk will also draw on insights in Amit Chaudhuri’s Clearing a Space (2008). <br /> <br />
-      TALK 2) John Billingsley: Place-speak in the past (or something) <br />
+      TALK 2) John Billingsley: <b>Place-speak in the past (or something)</b> <br />
       This talk will introduce and discuss a range of concepts:
       * The relevance of phenomenology in visioning the past and monuments in relation to their landscape and place; <br />
       * reconsidering the role of folklore, particularly place legends, as the psychogeography of previous generations and the making of communal cognitive maps; <br />
@@ -112,17 +112,17 @@ friday-events:
     by:  Becky Alexis-Martin & Wesley Perriman & Malcolm Craig, Moderated by Phil Wood
     location: Auditorium
     time: "16:15"
-    description: "Talk 1) Becky Alexis-Martin: Atomic Hol(e)y Spaces of Los Alamos  <Br />
+    description: "Talk 1) Becky Alexis-Martin: <b>Atomic Hol(e)y Spaces of Los Alamos </b> <Br />
       A talk about feminist and auto-ethnographic processes surrounding psychogeographical exploration of nuclear places and spaces, with a focus on Los Alamos.
       <Br />
       Los Alamos rose from obscurity, a secret city called “Project Y”, nestled in the canyons of New Mexico. It was to become infamous as the home of the atomic bomb, the source of the science and technology that propelled and detonated atomic bombs over Hiroshima and Nagasaki on the 6th and 9th August 1945. It is still a place of contradictions and secrets. It is a Plutopian idyll, presenting now as a pristine and beautiful town of white picket fences, surrounded by the dusty canyons of the New Mexican mesa. It makes a feature of its nuclear weapons laboratory. Tourist attractions include the Los Alamos visitor centre, LANL’s Bradbury Science Museum, Los Alamos Historical Museum, and Fuller Lodge Art Museum. These places retell the story of the atomic bomb, capitalising upon the culture of secrecy that surrounds nuclear weapons to rework the public-facing history of Los Alamos. 
       <Br />
       Becky will focus on the Church of High Technology, the Black Hole and the Doomsday Stones, and their role in creating places of subversion and peace within the nuclear military industrial establishment by “un-worshiping the bomb”.  <Br /> <Br />
       
-      Talk 2) Wesley Perriman: Nuclear Family: Looking at the legacy of British Nuclear Testing. <br />
+      Talk 2) Wesley Perriman:<b> Nuclear Family: Looking at the legacy of British Nuclear Testing.</b> <br />
       Wesley will talk about his personal connection to Britain’s history of nuclear weapons testing – his father was a veteran. This will segue into the wider effects of the tests on their locations and the local populace. Finally Wesley will look at how our Nuclear heritage is being lost. Because the tests were conducted on the opposite side of the globe an 'out of sight, out of mind' mentality has developed.<br /><br />
 
-      Talk 3) Malcolm Craig: Space and place in the history of nuclear proliferation <br />
+      Talk 3) Malcolm Craig: <b>Space and place in the history of nuclear proliferation </b><br />
       This talk will examine the ways in which policymakers, the media, and creators of popular culture have imagined the links between the proliferation of nuclear weapons and the geographical environment. From the popularisation of imagined territories to interconnections between the commonplace and the unusual, the complexity and occasional strangeness of the nuclear world will be explored, with particular reference to locations in the UK and Pakistan.  "
     type: Curated Session
     note: 
@@ -180,12 +180,12 @@ friday-events:
     note: 
 
   - title: Social Event
-    by:  
+    by:  Everyone
     location: "Northern Quarter"
     time: "19.30"
-    description: "Includes a screening of films by Ali McDonald <br /> 
+    description: "Includes a screening of films by <b>Ali McDonald</b> <br /> 
     and <br />
-    Morag Rose’s ‘Loitering, Loving and Getting Lost’ <br /> 
+    Morag Rose’s <b>‘Loitering, Loving and Getting Lost’</b> <br /> 
     This performance combines fieldnotes from over a decade of artist-activist-academic praxis with a new and more personal psychogeography.
     <br />
     In 2006 Morag co-founded The LRM (Loiterers Resistance Movement) a psychogeographical collective based in Manchester UK. Initially conceived as an experiment in taking radical political theory onto the streets, a key part of the work has been regular free, communal dérives, open to all who wish to wander and wonder on the First Sunday of every month. The LRMs manifesto states “We can’t agree on what psychogeography means” and we have a deep commitment to diversity, plurality and walking as an act of solidarity and defiance. At the heart of this is a the declaration that “ We believe there is magick in the mancunian rain. Our city is wonderful and made for more than shopping. The streets belong to everyone and we want to reclaim them for play and revolutionary fun...”
@@ -197,36 +197,243 @@ friday-events:
     type: Social
     note: "@ Northern Quarter, 28 - 30 Wood St, Huddersfield HD1 1DU"
 
-  - title: 
-    by:  
+
+
+saturday-events:
+  - title: It's All a Game - A 4WCoP IF Adventure
+    by:  Krishan Coupland
+    location: Brigantia 1
+    time: "12.00"
+    description: "How does the way in which we parse the world affect our experience of it? In this session we'll take a virtual dérive through five cities in five different formats ranging from Twine adventure to Dungeons & Dragons game. The only common element is that it's all, at the heart of it, play.
+    <br />
+    This interactive audio/visual presentation is developed from an existing talk about interactive fiction. During the 45-minute session Krishan will present five different custom-made pieces of interactive fiction, each of which describes a short dérive in a different city. We'll play through each of them as a group, and then examine the way in which space and experience are parsed by each engine. Throughout he'll invite participants to see the world around them as an interactive environment, and project these ways of parsing the world onto the world they experience. This approach stems from the idea that psychogeography is, first and foremost, play - and that, thusly, a playful way of experiencing the world can be powerful in enhancing our ability to notice it. "
+    type: Talk
+    note: 
+
+  - title: Saving Psychogeography from the Academics
+    by:  Adrian Riley
+    location: Brigantia 2
+    time: "12.00"
+    description: "Or...psychogeography as a practical tool for creative public engagement.
+    This will be a visual talk based on real-life examples of using psychogeographic process and techniques for community engagement in public art and design commissions. The projects have involved artists, poets, scriptwriters, storytelling, photographers, designers, walking, getting lost, discovering etc.
+    These include: <br />
+    * A community-instigated and generated map of a town, based on cognitive navigation.<br />
+    * An alternative series of ‘signposts’ encouraging navigation of a bird sanctuary via sound.<br />
+    * A building-wide poem on walls, fences, windows and pavements created from words collected on journeys around the locale.<br />
+    * A seafront artwork of found words collated in the location, arranged according to tide patterns.<br />
+    * A former shop repurposed to stock the words of people of the town.<br />
+    * Seemingly random trails based on limericks, humbers, recipes directing people to a new community initiative.<br />
+    * Stories collected from the community and placed back where they took place. "
+    type: Talk
+    note: 
+
+  - title: The experiential landscape - the psychogeography of photography.
+    by:  Rob Knight
+    location: Outside
+    time: "12.00"
+    description: "Rob will lead a walk to explore the creative experience of the derive or drift. It will allow participants to explore for themselves, documenting and creating imagery, video and audio artefacts inspired by the creative walk.<br />
+    The walkshop is designed to offer a toolkit as to how we might explore and react to place through a psychogeographic and creative mindset giving participants an ability to use some everyday tech or tools to frame their own personal reflections and meanderings. It will show how Rob uses a psychogeographic mindset to shape and inspire his creative output as a professional artist / photographer and educator."
+    type: Walkshop
+    note: Whilst it would be advisable for people attending the Walkshop to have already heard Rob’s Talk in Friday’s programme in Huddersfield, it is not essential.
+
+  - title: Design on the move! 
+    by:  Oliver East
+    location: Brigantia 2 & outside
+    time: "12.00"
+    description: "A brief presentation of Oliver’s method of ‘drawing whilst walking’ will be followed by a drawing workshop during which we will record Dewsbury on foot, not stopping to steady our pads nor waiting for anything ‘interesting’ to draw. A constant collection of lines whilst walking one.
+    <br />
+    Oliver will present research gathered from residencies in Finland, Romania, Canada, France and the UK, all whilst drawing constantly. He will then lead a drawing workshop during which participants will have the opportunity to try this unique reportage method. Drawing whilst walking proposes a design tool that better records an environment that we experience in flux and rarely from the static viewpoint of regular landscape drawing. "
+    type: Talk/Walk
+    note: 
+
+
+  - title: Expanding perceptions with sensors 
+    by:  David Upton
+    location: Brigantia 1
+    time: "12.45"
+    description: "We are unable to sense many subtle signals: for example only our smartphones know that GPS satellite signals are always above us. What other energies and indicators does our conscious perception miss, which nevertheless influence our lives, emotions and attitudes?
+    <br />
+    David has begun to build a portable sensor kit, to expand his perceptions during and after psychogeographic walks, with a particular focus on magnetic fields and radio waves. He would like to share the technology and the results he is obtaining. He wants to try to make these forces more visible, either by maps or art works, or by 'real time' Augmented Reality displays for walkers. It raises some interesting questions: Can things that we do not consciously sense nevertheless affect our perceptions? Could it one day show an objective basis for apparently 'occult' phenomena like ley lines and dowsing? 
+    <br />
+    These technologies are increasingly easy to replicate, and to some extent already exist in the mobile phones that we all carry around with us. David hopes to show people ways to use their phones to expand their conscious awareness."
+    type: Talk
+    note: 
+
+  - title:  Lunch
+    by:  Everyone
     location: 
-    time: ""
+    time: "13.30"
     description: 
-    type: 
+    type: Break
+    note: 
+
+  - title: Act of Resistance 
+    by:  Andrew Howe
+    location: Outside
+    time: "14.00"
+    description: "Actively challenging control of space and place is an important part of psychogeography. In this event, participants will make small interventions in the urban landscape to foster community kindness, before gathering for a short performance walk as a demonstration of unity.
+    <br />
+    The event will commence with a brief introduction to the history of people’s protests in West Yorkshire, with reference to specific local places and movements such as Chartism and Luddism. Andrew will set participants a simple task to complete and this will be followed by a silent collective act in public space. 
+    <br />
+    The small interventions will encourage participants to look closely at, and engage with, the streetscape with a specific purpose in mind. The results are also intended to engage non-participating members of the public by encouraging curiosity, raising awareness of an urgent need for more community spirit. The closing group activity will involve all participants in a simple performance that draws on Fluxus events and performance projects such as Open City. It offers an opportunity to take part in a creative action, transforming albeit briefly and subtly, a public space, whilst drawing attention to the important role that walking has in demonstrating collective solidarity, identity and belonging."
+    type: Walk
+    note: 
+
+
+  - title: Web Walking 
+    by:  Helen Billinghurst & Phil Smith
+    location: Brigantia 1
+    time: "14.30"
+    description: "A presentation in response to growing and divisive crises, Helen and Phil propose a new emphasis for psychogeography: a walk towards conviviality, togetherness, connectivity and group world building. They want to advocate a practical ecological and convivial re-wilding of themselves and a renewal as artists in a metaphorical dark forest of imagination.
+    <br />
+    Web Walking is a response to the growing and divisive crises of populism, misinformation, misogyny, fundamentalist reaction and species extinction, as they propose a new emphasis for psychogeography. They advocate for a practice that is not based on the thrill of apocalypse; they want to get away from the individualist consumerist thrills of the psychogeographical ‘eerie’ as entertainment product – and repurpose the challenge of climate change and the affects of the dread space of hypermodernity as means to conviviality and connectivity (web walking). 
+    <br />
+    Mindful of psychogeography’s problematic ‘occult’ tradition, they will propose a non-systems based strategy for walking in the ‘magical mode’ (as defined by Gilbert Simondon), drawing on the fictioning and myth-science of Simon O’Sullivan, Hélène Cixous’s embrace of mutant social relations and our own discoveries in the world. They will point to the ideology of separateness – the huge revenant of neo-liberalism, even more resilient and confounding now that neo-liberalism is dying and leaving behind its spectres and holograms – as psychogeography’s primary foe. Against individualism and isolation, they offer arachnian weaving paths inspired by Fernand Deligny; and will describe some practical examples."
+    type: Talk
     note: 
 
 
 
+  - title: Psychogeographic Flow and Writing the Black Country
+    by:  Kerry Hadley-Pryce
+    location:  Brigantia 2
+    time: "15.15"
+    description: "How might psychogeographic walking in a 'liminal' area like the Black Country in the West Midlands ignite a feeling of 'flow' and inspire new pieces of creative writing?
+    <br />
+    According to some, the Black Country is a 'place' somewhere in the West Midlands. As others have noted, however, the precise pinning down of where the Black Country borders are located has been, and remains, a contentious issue. It tends to be regarded as a liminal place, not quite town, not quite rural, yet containing both, and it is a ‘place’ that has dialects, traditions and a culture, which includes its literature/writing output. Indeed, an important thematic thread of writing that comes out of the Black Country is ‘place’ or, more specifically a sense of place. 
+    <br />
+    Those who live there have a form of topophilia without even realising it. By focusing on this notably ‘unmappable’ place (the Black Country), this talk makes psychogeography account for itself, taking it off the beaten track, drifting into an analysis of how writers deal with the region as a ‘sensation of place’ in their writing. It will tackle ideas about deep topography and, will develop the concept of psychogeography much further, connected to Kent Chapin Ross' and Katarina Loffler's separate notions of literary psychogeography, and Mihaly Csikszentmihalyi’s ‘Flow’ in creativity. 
+    <br />
+    It may also open up interesting comparisons between the Black Country and the liminal Heavy Woollen District which surrounds Dewsbury"
+    type: Talk
+    note: 
+
+  - title: Walking Weirdly
+    by:  Fiona Weir
+    location: Outside
+    time: "15.15"
+    description: "The first rule is, the rules are all yours! Walking Weirdly is a new game for exploring the places you find yourself in and experiencing them differently. Play alone or with two, three or four people, or in teams. Pick cards at random, deal them out, and compete, or share every challenge. Give points or don’t. Aim for laughter, reflection, new experiences and awareness. (Conceived and designed by Fiona Weir. Sets available to borrow or to buy from Fiona)."
+    type: Walk
+    note: 
+
+  - title: Break
+    by:  Everyone
+    location: 
+    time: "15.45"
+    description: 
+    type: Break
+    note: 
+
+  - title: What does Psychogeography feel like? 
+    by:  Threadbear Theatre
+    location:  Brigantia 1
+    time: "16.00"
+    description: "So 4WCoP’s talking about what psychogeography is, but what does it feel like? And is what it feels like what it actually is? Isn't that more 'it' than anything else? This is a chance to share your thoughts, bright moments and stories about psychogeography, see them played back by a skilled team of improvisers and follow the red thread that connects all our stories.
+    <br />
+    Threadbear Theatre invites the audience to share thoughts stories and moments in a playback theatre performance. Playback theatre explores the feelings, emotions, atmospheres and archetypes inside and around our experiences, great or small. People's thoughts and stories and the performers’ response to them seed other stories and a thread develops connecting everyone's stories. "
+    type: Performance
+    note: 
+
+  - title: A screening of various films
+    by:  Various Artists
+    location: Brigantia 2
+    time: "16.00"
+    description: "A screening of various films, including the work of Alistair Macdonald, https://alistairimacdonald.com/"
+    type: Films
+    note: 
+
+  - title: Close
+    by:  Everyone
+    location: 
+    time: "17.15"
+    description: "Walk to Dewsbury Railway Station and travel by train to Huddersfield
+NOTE: there are trains at  17.29, 17.51 and 18.10 and the journey takes between 9 and 18 minutes. "
+    type: Break
+    note: 
+
+  - title: Social Event
+    by:  Everyone
+    location: Small Seeds, Castlegate, Huddersfield HD1 2UD
+    time: "19.30"
+    description: "New Weird Huddersfield presents:
+    <br />
+    an evening of psychogeographical entertainment.
+    <br />
+    * Comic artist and musician Malcy Duff performs a live comic;  <br />
+    * Kneeling Coats make music from map-scores, land use and psych-interpretation;  <br />
+    * Napoleon III performs BUILDINGS , a new piece of music, light and performance, which derives from his vision of composition and sound as structural or architectural; and explores the impact of the city on both individual and group happiness. <br />
+    * Kevin Boniface reads from his books The Most Difficult Thing Ever and Round About Town, with audio visual accompaniment. <br />
+    <br />
+    Price: £5 on the door or pay what you can afford. Nobody will be refused entry."
+    type: Social
+    note: Malcy Duff will also lead a workshop on Sunday at the Making Space in Huddersfield.
 
 
-saturday-events:
-  - title: Welcome Address
-    by:  The Congress Organisers
-    location: Auditorium
-    time: "10.30"
-    description: A Welcome to the Fourth World Congress of Psychogeography
-    type: talk
-    note: The venue will be open from 10:00 AM 
 
 
 sunday-events:
-  - title: Welcome Address
-    by:  The Congress Organisers
-    location: Auditorium
-    time: "10.30"
-    description: A Welcome to the Fourth World Congress of Psychogeography
-    type: talk
-    note: The venue will be open from 10:00 AM 
+  - title: Foregrounding the psychology in psycho/geography
+    by:  Andrea Capstick
+    location: Marsden Paraochial Hall
+    time: "12.00"
+    description: "The psychological dimension of psychogeography has been somewhat overlooked. More attention has been paid to the geographical dimension of psychogeography than to its basis in psychology. Psychology is also a multiple and contested field. So what kind of psychology might work if we want to enrich and expand psychogeography as concept and practice? <br />
+    The Situationists spoke of the impact of the geographical environment on the 'emotions and behaviour', but psychology is much more than this, taking in, for example, cognition, memory, dreams, imagination, and what has sometimes been described as 'unconscious mental life'. <br />
+    This session will involve going for a short unstructured walk, whilst paying close attention to the impact of the environment in question on each participants' 'inner state'. Participants will be asked to make a one page record of the walk, using words and phrases, drawings, free association, found images and objects etc. Post-walk discussion will focus specifically on the phenomenon of selection, ie why do we choose certain objects, images, words rather than others in order to describe or explain a landscape to ourselves? Is it simply there to be found, do we create it imaginatively, or are certain elements always, already foregrounded due to past associations that we may not be aware of? "
+    type: Talk/Walk
+    note: 
+
+  - title: Marsden by accident 
+    by:  Chris Marsden
+    location: Outside
+    time: "12.00"
+    description: A three mile walk across Marsden guided by Chris Marsden to visit sites of accidents to people called Marsden. The walk links up at least six sites of Nineteenth Century accidents to people called Marsden with a short account of each.
+    type: Walk
+    note: Stout footwear and outdoor wear is recommended as the walk includes exposed rough ground. To save a long up-hill walk it starts with bus ride from Peel Street, Marsden  at 1307 to Owlers Farm.
+
+  - title: Poetics of Space/Place
+    by:  Rob Lycett
+    location: Marsden Paraochial Hall
+    time: "14.45"
+    description: Building upon his practice of responding to spaces and experiences, Rob will lead a writing/performance  activity which uses location specific language as a framework. Each participant will wander through Marsden gathering language using the ‘what three words’ app (iOS Android), a system which provides language coordinates based upon three random words. The work will culminate in performances of the short poetic works in various locations in Marsden as language based interventions. 
+    type: Walk/Performance 
+    note: 
+
+  - title: Draw It Out
+    by:  Fiona Weir
+    location:  Outside
+    time: "14.45"
+    description: A wheelchair/scooter accessible walk. More info coming soon
+    type: Walk
+    note: 
+
+  - title: "Get Yourself in a State..."
+    by:  Simon Cole
+    location: Outside
+    time: "15.45"
+    description: "Get Yourself in a State...of receptivity, where anything and everything is of interest. Ever experienced a flow state in the park, or sunk into mystic reveries on the bus? Then you are one of us - and we need you for this creative, collaborative and playful walk.<br />
+
+    Psychogeography is a state of mind: a way of going about in a world that's suddenly so much more interesting when you activate this mindset, using tools we already have inside our own heads. Simon Cole didn't realise he'd been doing Psychogeography for decades all over the world until recently. And he never knew so many other people were doing it too, until #4WCOP. So with some references to the 'original Psychogeographer' William Blake, some readings and some practical exercises, we're going to collectively change our state. We're going to bounce off each other and create a small space of possibility. This will not be a lecture: it's going to be collaborative, consensual and creative. Using the technique of the Dérive and a few other state-changing techniques, we'll go on foot for a short 'wonder wander' of possibility."
+    type: Walk
+    note: 
+
+  - title: "Psychogeography And Grief: Navigating Loss Of Body And Place"
+    by:  Cynthia A. Schemmer
+    location: Marsden Paraochial Hall
+    time: "16.00"
+    description: "Following the death of her mother in 2006, Cynthia acquired an insatiable need to see the unseeable of New York City, the place she and her mother once called home. She obsessively explored the ruins: Dead Horse Bay, Domino Sugar Factory, Arthur Kill ship graveyard, the Brooklyn corner where the apartment her mother was born into once stood, and more. She wanted to collect the histories of her mother and her version of New York, staggered between this world and another, and what those histories look like today. She wanted to learn about the past without the influence of capitalism, in places that exist outside of museums and crowds. <br />
+    In this workshop, Cythia will discuss her book-in-progress and then lead the audience in a creative writing workshop that explores grief of body and place, the changes that are constantly occurring within both, and the role of psychogeography. There has yet to be any formal literature regarding the connections between psychogeography and grief. While her book is not yet finished, Cynthia believes it will be the first to merge the two, and her hope is to expand the community's perception of psychogeography by working through their own grief of body and place."
+    type: Talk
+    note: 
+
+  - title: Closing Event
+    by:  Everyone
+    location: Riverhead Brewery Tap
+    time: "17.00"
+    description: Refreshments at the Riverhead Brewery Tap, 2 Peel St, Marsden, Huddersfield HD7 6BR
+    type: Social
+    note: 
+
+
 
 
 
