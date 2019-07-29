@@ -51,7 +51,7 @@ friday-events:
     by:  Fiona Weir
     location:  Outside
     time: "11.45"
-    description: Watch this space
+    description: Join this workshop to explore how our ways of seeing are affected by imposed boundaries, limits and restrictions on moving around. Take part in an ‘action research’ experiment, then group discussion and display of our findings, including some reflections from Fiona, who began to lose her mobility in 2011
     type: Performance
     note: Max 25 participants, more details coming soon 
 
@@ -61,7 +61,7 @@ friday-events:
     time: "12.15 to 13.30"
     description: Lunch can be purchased at the International Kitchen restaurant or the Central Café, both in Student Central, or in the Town Centre.
     type: Break
-    note: 
+    note: The "Royal Society for the Preservation of Boring Grid Squares" will be running a stall to raise awareness of the dangers faced by the most featureless kilometre squares on OS maps. 
 
   - title: "An Antiquarian Psychogeography"
     by:  Mark Valentine & John Billingsley
@@ -119,7 +119,7 @@ friday-events:
       <Br />
       Becky will focus on the Church of High Technology, the Black Hole and the Doomsday Stones, and their role in creating places of subversion and peace within the nuclear military industrial establishment by “un-worshiping the bomb”.  <Br /> <Br />
       
-      Talk 2) Wesley Perriman:<b> Nuclear Family: Looking at the legacy of British Nuclear Testing.</b> <br />
+      Talk 2) Wesley Perriman:<b> An Interpretation of the British Nuclear Weapons Tests and Their Legacy.</b> <br />
       Wesley will talk about his personal connection to Britain’s history of nuclear weapons testing – his father was a veteran. This will segue into the wider effects of the tests on their locations and the local populace. Finally Wesley will look at how our Nuclear heritage is being lost. Because the tests were conducted on the opposite side of the globe an 'out of sight, out of mind' mentality has developed.<br /><br />
 
       Talk 3) Malcolm Craig: <b>Space and place in the history of nuclear proliferation </b><br />
@@ -139,7 +139,7 @@ friday-events:
     type: Talk
     note: 
 
-  - title: Huddersfield Art Trail
+  - title: Huddersfield "Art" Trail
     by:  Steve Goldman & Graeme Murrell
     location: Outside
     time: "16.15"
@@ -215,17 +215,15 @@ saturday-events:
     location: Brigantia 2
     time: "12.00"
     description: "Or...psychogeography as a practical tool for creative public engagement.
-    This will be a visual talk based on real-life examples of using psychogeographic process and techniques for community engagement in public art and design commissions. The projects have involved artists, poets, scriptwriters, storytelling, photographers, designers, walking, getting lost, discovering etc.
+    This will be a combination of a visual talk plus some practical activity based on real-life examples from Adrian's collaborative practice using psychogeographic process and techniques for community engagement in public art and design commissions. The projects have involved artists, poets, scriptwriters, photographers and designers, walking, getting lost, meeting people, sharing stories and finding words with which to create public artworks to clearly defined briefs
     These include: <br />
-    * A community-instigated and generated map of a town, based on cognitive navigation.<br />
-    * An alternative series of ‘signposts’ encouraging navigation of a bird sanctuary via sound.<br />
     * A building-wide poem on walls, fences, windows and pavements created from words collected on journeys around the locale.<br />
+    * Stories collected from the community and placed back where they took place. <br />
+    * An alternative series of ‘signposts’ encouraging navigation of a bird sanctuary via sound.<br />
     * A seafront artwork of found words collated in the location, arranged according to tide patterns.<br />
-    * A former shop repurposed to stock the words of people of the town.<br />
-    * Seemingly random trails based on limericks, humbers, recipes directing people to a new community initiative.<br />
-    * Stories collected from the community and placed back where they took place. "
+    * A former shop repurposed to stock the words of people of the town.<br />"
     type: Talk
-    note: 
+    note: This session will begin outside Empire House for a simple activity in the locale and then move indoors to Brigantia 2 for the talk and an activity creating a new text on the fly.
 
   - title: The experiential landscape - the psychogeography of photography.
     by:  Rob Knight
@@ -398,13 +396,13 @@ sunday-events:
     type: Walk/Performance 
     note: 
 
-  - title: Draw It Out
+  - title: Draw It Out - an outdoor exploration with Kate Morton and Fiona Weir
     by:  Fiona Weir
     location:  Outside
     time: "14.45"
-    description: A wheelchair/scooter accessible walk. More info coming soon
+    description: "What happens when we pay deliberate attention to the effects and emotions created in us by a landscape? Join this semi-structured group game to explore, draw maps and find out. A unique corner of Marsden has been deliberately chosen for its geographic and psychogeographic variety: within half a mile, we find roads, housing, railway, canal, river, nature garden, woods, undergrowth and art. "
     type: Walk
-    note: 
+    note: Note that all participants - whether on wheels or on foot - will be able to access some but not all paths. The main path is level but uneven and some wheelchair users may wish to come with a helper; contact Kate/Fiona if you would like to discuss.
 
   - title: "Get Yourself in a State..."
     by:  Simon Cole
@@ -439,6 +437,9 @@ sunday-events:
 
 
 bios:
+
+  - name: Fiona Weir
+  - description: Fiona is an artist, freelance researcher and strategist, interested in the ideas and relationships that lead to social change. After 30 years working hard in the university and public sectors, she is spending a year playing and making art, while finding out how new disability affects her ways of looking and being in the world. She is the creator of Walking Weirdly, new outdoor games for psychogeographic exploration.
 
   - name: Rob Knight
     description: "Rob Knight is a professional photographer, educator, mentor, curator and speaker from Sheffield. His work explores deep personal connections and perceptions to and of space / place as a means to create. Rob has worked in higher education for over 11 years and been a professional photographer for around 15 years."
