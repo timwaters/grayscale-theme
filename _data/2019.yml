@@ -232,16 +232,6 @@ saturday-events:
     type: Walkshop
     note: "Whilst it would be advisable for people attending the Walkshop to have already heard Rob’s Talk in Friday’s programme in Huddersfield, it is not essential. <br /> Max 25 participants. Please register via Eventbrite to book your tickets for <a href='https://www.eventbrite.co.uk/e/the-experiential-landscape-the-psychogeography-of-photography-tickets-66676847245'>The experiential landscape</a>"
 
-  - title: Design on the move! 
-    by:  Oliver East
-    location: Brigantia 2 & outside
-    time: "12.00"
-    description: "A brief presentation of Oliver’s method of ‘drawing whilst walking’ will be followed by a drawing workshop during which we will record Dewsbury on foot, not stopping to steady our pads nor waiting for anything ‘interesting’ to draw. A constant collection of lines whilst walking one.
-    <br />
-    Oliver will present research gathered from residencies in Finland, Romania, Canada, France and the UK, all whilst drawing constantly. He will then lead a drawing workshop during which participants will have the opportunity to try this unique reportage method. Drawing whilst walking proposes a design tool that better records an environment that we experience in flux and rarely from the static viewpoint of regular landscape drawing. "
-    type: Talk/Walk
-    note: Max 15 participants. Please register for tickets for this event on Eventbrite <a href='https://www.eventbrite.co.uk/e/design-on-the-move-tickets-66677087965'>Design on the Move!</a>"
-
 
   - title: Expanding perceptions with sensors 
     by:  David Upton
@@ -263,19 +253,6 @@ saturday-events:
     type: Break
     note: 
 
-  - title: Act of Resistance 
-    by:  Andrew Howe
-    location: Outside
-    time: "14.00"
-    description: "Actively challenging control of space and place is an important part of psychogeography. In this event, participants will make small interventions in the urban landscape to foster community kindness, before gathering for a short performance walk as a demonstration of unity.
-    <br />
-    The event will commence with a brief introduction to the history of people’s protests in West Yorkshire, with reference to specific local places and movements such as Chartism and Luddism. Andrew will set participants a simple task to complete and this will be followed by a silent collective act in public space. 
-    <br />
-    The small interventions will encourage participants to look closely at, and engage with, the streetscape with a specific purpose in mind. The results are also intended to engage non-participating members of the public by encouraging curiosity, raising awareness of an urgent need for more community spirit. The closing group activity will involve all participants in a simple performance that draws on Fluxus events and performance projects such as Open City. It offers an opportunity to take part in a creative action, transforming albeit briefly and subtly, a public space, whilst drawing attention to the important role that walking has in demonstrating collective solidarity, identity and belonging."
-    type: Walk
-    note: Max 20 participants. Please register for tickets for this event on Eventbrite for <a href='https://www.eventbrite.co.uk/e/act-of-resistance-tickets-66677146139'>Act of Resistance </a>
-
-
   - title: Web Walking 
     by:  Helen Billinghurst & Phil Smith
     location: Brigantia 1
@@ -288,11 +265,33 @@ saturday-events:
     type: Talk
     note: 
 
+  - title: Design on the move! 
+    by:  Oliver East
+    location: Brigantia 2 & outside
+    time: "14.30"
+    description: "A brief presentation of Oliver’s method of ‘drawing whilst walking’ will be followed by a drawing workshop during which we will record Dewsbury on foot, not stopping to steady our pads nor waiting for anything ‘interesting’ to draw. A constant collection of lines whilst walking one.
+    <br />
+    Oliver will present research gathered from residencies in Finland, Romania, Canada, France and the UK, all whilst drawing constantly. He will then lead a drawing workshop during which participants will have the opportunity to try this unique reportage method. Drawing whilst walking proposes a design tool that better records an environment that we experience in flux and rarely from the static viewpoint of regular landscape drawing. "
+    type: Talk/Walk
+    note: Max 15 participants. Please register for tickets for this event on Eventbrite <a href='https://www.eventbrite.co.uk/e/design-on-the-move-tickets-66677087965'>Design on the Move!</a>"
+
+
+  - title: Act of Resistance 
+    by:  Andrew Howe
+    location: Outside
+    time: "14.30"
+    description: "Actively challenging control of space and place is an important part of psychogeography. In this event, participants will make small interventions in the urban landscape to foster community kindness, before gathering for a short performance walk as a demonstration of unity.
+    <br />
+    The event will commence with a brief introduction to the history of people’s protests in West Yorkshire, with reference to specific local places and movements such as Chartism and Luddism. Andrew will set participants a simple task to complete and this will be followed by a silent collective act in public space. 
+    <br />
+    The small interventions will encourage participants to look closely at, and engage with, the streetscape with a specific purpose in mind. The results are also intended to engage non-participating members of the public by encouraging curiosity, raising awareness of an urgent need for more community spirit. The closing group activity will involve all participants in a simple performance that draws on Fluxus events and performance projects such as Open City. It offers an opportunity to take part in a creative action, transforming albeit briefly and subtly, a public space, whilst drawing attention to the important role that walking has in demonstrating collective solidarity, identity and belonging."
+    type: Walk
+    note: Max 20 participants. Please register for tickets for this event on Eventbrite for <a href='https://www.eventbrite.co.uk/e/act-of-resistance-tickets-66677146139'>Act of Resistance </a>
 
 
   - title: Psychogeographic Flow and Writing the Black Country
     by:  Kerry Hadley-Pryce
-    location:  Brigantia 2
+    location:  Brigantia 1
     time: "15.15"
     description: "How might psychogeographic walking in a 'liminal' area like the Black Country in the West Midlands ignite a feeling of 'flow' and inspire new pieces of creative writing?
     <br />
@@ -336,7 +335,7 @@ saturday-events:
     time: "16.00"
     description: "A screening of various films, including the work of Alistair Macdonald, https://alistairimacdonald.com/"
     type: Films
-    note: 
+    note: A second chance to see the films first screened on Friday night
 
   - title: Close
     by:  Everyone
@@ -346,6 +345,13 @@ saturday-events:
 NOTE: there are trains at  17.29, 17.51 and 18.10 and the journey takes between 9 and 18 minutes. "
     type: Break
     note: 
+
+  - title: Fun & Games
+    by: Crab & Bee
+    location: St. Georges Sq.
+    time: 18.45
+    description: Fun & games intervention and walk to Small Seeds.
+    note: Meet at the statue of Harold Wilson outside the railway station
 
   - title: Social Event
     by:  Everyone
@@ -405,7 +411,7 @@ sunday-events:
   - title: "Get Yourself in a State..."
     by:  Simon Cole
     location: Outside
-    time: "15.45"
+    time: "16.00"
     description: "Get Yourself in a State...of receptivity, where anything and everything is of interest. Ever experienced a flow state in the park, or sunk into mystic reveries on the bus? Then you are one of us - and we need you for this creative, collaborative and playful walk.<br />
 
     Psychogeography is a state of mind: a way of going about in a world that's suddenly so much more interesting when you activate this mindset, using tools we already have inside our own heads. Simon Cole didn't realise he'd been doing Psychogeography for decades all over the world until recently. And he never knew so many other people were doing it too, until #4WCOP. So with some references to the 'original Psychogeographer' William Blake, some readings and some practical exercises, we're going to collectively change our state. We're going to bounce off each other and create a small space of possibility. This will not be a lecture: it's going to be collaborative, consensual and creative. Using the technique of the Dérive and a few other state-changing techniques, we'll go on foot for a short 'wonder wander' of possibility."
