@@ -181,7 +181,7 @@ friday-events:
     by:  Everyone
     location: "Northern Quarter"
     time: "19.30"
-    description: "Includes a screening of films by <b>Ali McDonald</b> <br /> 
+    description: "Includes a screening of films by <b>Alastair I Macdonald</b> <br /> 
     and <br />
     Morag Rose’s <b>‘Loitering, Loving and Getting Lost’</b> <br /> 
     This performance combines fieldnotes from over a decade of artist-activist-academic praxis with a new and more personal psychogeography.
@@ -341,7 +341,7 @@ saturday-events:
     by:  Various Artists
     location: Brigantia 2
     time: "16.00"
-    description: "A screening of various films, including the work of Alistair Macdonald, https://alistairimacdonald.com/"
+    description: "A screening of various films, including the work of Alastair I Macdonald, https://alistairimacdonald.com/"
     type: Films
     note: A second chance to see the films first screened on Friday night
 
@@ -360,6 +360,7 @@ NOTE: there are trains at  17.29, 17.51 and 18.10 and the journey takes between 
     time: 18.45
     description: "A presentation in response to growing and divisive crises, we propose a new emphasis for psychogeography: a walk towards conviviality, togetherness, connectivity and group world building. We want to advocate a practical ecological and convivial re-wilding of ourselves and a renewal of ourselves as artists in a metaphorical dark forest of imagination."
     note: Meet at the statue of Harold Wilson outside the railway station
+    type: Intervention
 
   - title: Social Event
     by:  Everyone
