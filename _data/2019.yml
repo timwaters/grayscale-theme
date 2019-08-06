@@ -204,6 +204,7 @@ saturday-events:
     time: "11.27"
     description: An introduction to Saturday's World Congress.
     note: Please note the precise start time of this starting event.
+    type: Talk
 
   - title: It's All a Game - A 4WCoP IF Adventure
     by:  Krishan Coupland
