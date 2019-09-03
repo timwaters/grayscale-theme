@@ -25,7 +25,7 @@ friday-events:
     time: "11.00"
     description: Join this open discussion to find out what Psychogeography is, where it came from, how it has changed over the years, and what it means to be doing it in 2019. This is an informal discussion created and led by the participants so feel free to bring any material and examples to share (there's a computer and screen available) and any questions or talking
     type: discussion
-    note: 
+    note: This session is in two parts of an hour each. The first session is chaired by Timmy Waters
 
   - title: No Holiday
     by:  Patrick S. Ford
@@ -169,13 +169,21 @@ friday-events:
     type: Talk
     note: 
 
+  - title: "Fieldworks: Dialogues in Psychogeography"
+    by: Rob Lycett, Carl Meddings, Garry Clarkson, Tim Brown, Sam Welburn, Andy Conroy
+    location: Market Gallery, Queensgate Indoor Market
+    time: "5.30 - 7.30pm"
+    description: Join the artists for the opening show of an exhibition of psychogeography and a temporary contempary happening in this fantastic market space. <a href="/img/2019/fieldworks_poster_A5.jpg">View the Fieldworks Flyer</a>
+    type: Exhibition / Opening Show
+    note: Show is also open on Saturday of the Congress from 11am to 4pm.
+
   - title: 
     by:  
     location: 
     time: "18:00"
     description: Food and drink available from various establishments around the Town Centre
     type: Break
-    note: 
+    note: Please make sure to visit the Fieldworks exhibition in Queensgate Market (see above) during this time.
 
   - title: Social Event
     by:  Everyone
