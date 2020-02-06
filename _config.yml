@@ -1,8 +1,8 @@
 # Site settings
-title: Fourth World Congress of Psychogeography 6th, 7th & 8th September 2019
+title: Fourth World Congress of Psychogeography 4th, 5th and 6th September 2020
 email: email@example.com
 url: https://timwaters.github.io
-description: "Fourth World Congress of Psychogeography - a festival of walking, space, place and the town of Huddersfield, West Yorkshire. Free events. 6th, 7th & 8th September 2019"
+description: "Fourth World Congress of Psychogeography - a festival of walking, space, place and the town of Huddersfield, West Yorkshire. Free events. 4th, 5th & 6th September 2020"
 baseurl: ""
 
 # Color settings
@@ -11,7 +11,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Fourth World Congress of Psychogeography - Huddersfield 6th, 7th & 8th September 2019
+footer: Fourth World Congress of Psychogeography - Huddersfield 4th, 5th & 6th September 2020
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
